@@ -1,0 +1,795 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gods are men: or The mortality of persons in places of magistracy. As it was explained and applied in a sermon preached at the assize holden at Hertford for that county on March 15. 1656/7. By George Swinnocke M.A. last Fellow of Bailiol Colledge in Oxford, and now preacher of the gospel at Rickmersworth in Hertfordshire.</title>
+            <author>Swinnock, George, 1627-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94158</idno>
+            <idno type="STC">Wing S6276</idno>
+            <idno type="STC">Thomason E919_1</idno>
+            <idno type="STC">ESTC R207499</idno>
+            <idno type="EEBO-CITATION">99866545</idno>
+            <idno type="PROQUEST">99866545</idno>
+            <idno type="VID">118821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118821)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 138:E919[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gods are men: or The mortality of persons in places of magistracy. As it was explained and applied in a sermon preached at the assize holden at Hertford for that county on March 15. 1656/7. By George Swinnocke M.A. last Fellow of Bailiol Colledge in Oxford, and now preacher of the gospel at Rickmersworth in Hertfordshire.</title>
+                  <author>Swinnock, George, 1627-1673.</author>
+               </titleStmt>
+               <extent>[8], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for N. VVebb, and VV. Grantham at the Beare over against the little North-door in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118821:1" rendition="simple:additions"/>
+            <p>THE GODS ARE MEN: OR, <hi>The Mortality of Perſons in places of MAGISTRACY.</hi>
+            </p>
+            <p>As it was Explained and Applied in a SERMON Preached at the Aſſize holden at <hi>Hertford</hi> for that County, on <hi>March</hi> 15. 1656/7.</p>
+            <p>BY <hi>George Swinnocke</hi> M.A. late Fellow of <hi>Bailiol</hi> Colledge in <hi>Oxford,</hi> and now Preacher of the Goſpel at <hi>Rickmerſworth</hi> in <hi>Hertfordſhire.</hi>
+            </p>
+            <q>
+               <hi>Man being in honour abideth not,</hi> 
+               <bibl>Pſalm 49.12.</bibl>
+            </q>
+            <q>
+               <hi>PALLIDA</hi> mors aequo pulſat pede Pauperum tabernas Regum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> turres. <bibl>
+                  <hi>Hor. od.</hi> 4. <hi>lib.</hi> 1.</bibl>
+            </q>
+            <q>
+               <hi>O that they were wiſe, that they underſtood this, that they would conſider their latter end!</hi> 
+               <bibl>Deut. 32.29.</bibl>
+            </q>
+            <q>Vivere tota vita diſcendum eſt: &amp; quod magis fortaſſe miraberis, tota vita diſcendum eſt mori. <bibl>
+                  <hi>Senec. ad Paulin. de brevit. vitae. cap. 7.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. VVebb, and VV. Grantham</hi> at the Beare over againſt the little North-door in <hi>Pauls</hi> Church-yard. 1657.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118821:2"/>
+            <pb facs="tcp:118821:2" rendition="simple:additions"/>
+            <head>To the Worſhipful <hi>John Beresford</hi> Eſq. High Sheriff of the County of <hi>Hertford.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>t is<note n="*" place="margin">Camb. Eliz.</note> reported of Queen <hi>Elizabeth</hi> (that <hi>Deborah</hi> of our Nation) that in a letter to the King of <hi>France</hi> ſhe ſhould uſe this expreſſion, That if there were any unpar<g ref="char:EOLhyphen"/>donable ſin, it muſt be ingratitude. And<note n="b" place="margin">Plut. in vita Pyrr.</note> 
+               <hi>Plutarch</hi> relateth concerning <hi>Pyrrhus</hi> King of <hi>Epi<g ref="char:EOLhyphen"/>rus,</hi> that he took the death of <hi>Aeropus</hi> very impati<g ref="char:EOLhyphen"/>ently, becauſe he was thereby cut off from all opportu<g ref="char:EOLhyphen"/>nities of requiting the courteſies which he had received from him. I think, Sir, there are few that have any relation to me, but know ſomething of my obligations to you. And though I cannot ſtrictly comply with the former, yet I bleſſe God I have not the ſame cauſe to complain with the latter. Notwithſtanding, the only requitall I am able to make you, is by theſe lines to give you a Bill under my hand that I am your debtor. I ſhall ever hold my ſelf engaged to<note n="c" place="margin">Ingratus eſt qui beneficium accepiſſe ſe ne<g ref="char:EOLhyphen"/>gat, quod ac<g ref="char:EOLhyphen"/>cepit; Ingratus qui diſſimulat; Ingratus qui non reddit; Ingratiſſimus omnium qui oblitus eſt. Sen. de benef. lib. 3. cap. 1.</note> remember the frequent and reall kindneſſe which your liberal ſelf and loving Conſort, have freely beſtowed on me and mine: For which I may ſay to you as<note n="d" place="margin">Idem de ben. lib. 2. cap. 25.</note> 
+               <hi>Furnius</hi> to <hi>Auguſtus, Hanc unam</hi> Ceſar <hi>habeo injuriam tuam, effeciſti ut viverem &amp; morerer ingratus,</hi> This is the only injury you have done me by your courteſies, to force me to live and die ungrateful.</p>
+            <p>Your voluntary cloſing with them in the Pariſh that ſeek to advance the power of godlineſs, your honouring them that fear the Lord, your diſeſteeming vicious per<g ref="char:EOLhyphen"/>ſons,
+<pb facs="tcp:118821:3"/> your charitable contributions to the poor upon all occaſions, are certainly recorded in Heaven; and there<g ref="char:EOLhyphen"/>fore; for the honour of God and encouragement of others deſerve reſpectfully to be mentioned on Earth. In teſtimony of my gratitude I now preſent to your eyes, what was lately preached in your ears, with the addi<g ref="char:EOLhyphen"/>tion of ſome things then omitted, either through the defect of my memory or want of time. Acknowledging both the weight of the matter delivered, and my weak<g ref="char:EOLhyphen"/>neſs in the manner of its delivery. It is very viſible that this Child is like its Parent, I mean my Book (if theſe ſheets may be called by that name) too too much reſembleth my body in infirmities. And indeed the conſciouſneſs of my own inabilities hath been the chief reaſon why I have not yet ſatisfied the deſires of ſome perſons of quality in Publiſhing two former Sermons compoſed on the like occaſion. Onely my reſpect to you hath cauſed this Sermon,<note n="e" place="margin">Gen. 27.36.</note> like <hi>Jacob</hi> to ſupplant its elder brother by getting away the birthright, and like<note n="f" place="margin">Gen. 38.29.</note> 
+               <hi>Pharez</hi> to make a breach upon his<note n="g" place="margin">i. e. A Ser<g ref="char:EOLhyphen"/>mon preached at a former Aſſize on the former part of the Text, not yet printed.</note> brother <hi>Zarah,</hi> and get into the world before him. But the Almighty God (who is a free Agent) often worketh great things by ſmall means. He can by the blowing of Rams horns cauſe the ſtrong walls of<note n="h" place="margin">Joſh. 6.16.</note> 
+               <hi>Jericho</hi> to fall down; with common<note n="i" place="margin">John 9.6.</note> clay he can make a precious ſalve to open the eyes of the blind: <hi>It pleaſeth his wiſdome by the</hi>
+               <note n="k" place="margin">1 Cor. 1.21.</note> 
+               <hi>fooliſhneſſe of preaching to ſave them that believe.</hi>
+               <note n="l" place="margin">Dr. <hi>Reynolds</hi> epiſtle before Meditat. on Lords Supper.</note> Herein the ſoveraignty of the Goſpell is moſt excellently ſet forth, in that it leadeth the ſoul by the hand of a child, <hi>Iſa. 11.6.</hi> and is as truly though not as abundantly powerful from young <hi>Timothy</hi> as from <hi>Paul</hi> the aged, <hi>1 Tim. 4.12.</hi>
+            </p>
+            <p>The favourable and extraordinary acceptance which this Sermon obtained when it was heard, moveth me
+<pb facs="tcp:118821:3"/> to hope that through the bleſſing of Heaven, it will be profitable when it ſhall be read.</p>
+            <p>Sir, In it you may diſcern that<note n="m" place="margin">Pſal. 119.96.</note> there will be an end of, and that there is an emptineſſe in all earthly perfections. That death is the great leveller making all equall, ſeizing as boldly on, and dealing as hardly with the greateſt Emperour as the pooreſt beggar.</p>
+            <q>
+               <l>Diveſne, priſco natus ab Inacho,</l>
+               <l>Nil intereſt, an pauper, &amp; infima</l>
+               <l>De gente, ſub dio moreris,</l>
+               <l>Victima nil miſerantis orci.</l>
+               <l>Omnes eodem cogimur, omnium</l>
+               <l>Verſatur urna: ſerius, ocyus</l>
+               <l>Sors exitura, nos in aeternum</l>
+               <l>Exilium impoſitura cymbae.</l>
+               <bibl>
+                  <hi>Hor.</hi> lib. 2. Ad Del.</bibl>
+            </q>
+            <p>That the rich mans wealth<note n="n" place="margin">Prov. 10.15.</note> which is his ſtrong City, and an high tower in his conceit, cannot ſecure him againſt the aſſault and battery of this grand adverſary.<note n="o" place="margin">Their bones and skellitons have no In<g ref="char:EOLhyphen"/>ſcriptions or Titles of ho<g ref="char:EOLhyphen"/>nour remai<g ref="char:EOLhyphen"/>ning on them, <hi>Vines Eſſ. Fun.</hi>
+               </note> That the grave m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keth no difference between the duſt of Princes and Peaſants. That they which cannot be contented with much Earth while they live, will be contained in a little when they die. As the<note n="p" place="margin">K. <hi>Philip.</hi>
+               </note> 
+               <hi>Macedo<g ref="char:EOLhyphen"/>nian</hi> King having got a fall in the ſand, as he was wreſtling at the Olympick games, when he roſe again ſeeing the print of his body in the ſand, cryed out, O how little a parcel of Earth will hold us when we are dead, who ambitiouſly ſeek after the whole world whileſt we are living!<note n="q" place="margin">Dan. 2.32.</note> That Image in <hi>Daniel</hi> doth notably ſet out the frailty of worldly greatneſs; The head of it was of fine gold, (that ſpake the <hi>Chaldean</hi> Empire) the breaſt and arms of ſilver, (this that Empire of the <hi>Medes</hi> and <hi>Perſians</hi>) the belly and thighs of braſs (by theſe the <hi>Grecian</hi> Empire is underſtood) but the feet
+<pb facs="tcp:118821:4"/> were part of clay. The feet of this Image were the ſtrength and foundation of the image, and ſpeak thus much to us, that all worldly pompe and majeſty will fail, all earthly power and dignity will fall; for the Image ſtands upon clay.<note n="r" place="margin">Q. Cur. Nudus paſcit aves, jacet en qui poſſidet orbem, Exi<g ref="char:EOLhyphen"/>guae telluris inops. <hi>Claudian</hi> of Pomp. Mag.</note> 
+               <hi>Cyrus</hi> therefore did fitly cauſe this Epitaph to be engraven on his tomb, O man whoſoever thou art that ſhalt come hither, know that I am great <hi>Cyrus,</hi> that firſt erected the <hi>Perſian</hi> Monarchy; there<g ref="char:EOLhyphen"/>fore envy me not this little Earth that now covereth my body.</p>
+            <p>From it you may learn, That your greateſt care ſhould be to fit your ſelf for your laſt hour; your main work is to doe your laſt act well. The <hi>Roman</hi> Gladiators appointed to death, were very ſolicitous how they ſhould contrive their bodies ſo, as that they might fall hand<g ref="char:EOLhyphen"/>ſomely and die modeſtly. Your buſineſs is ſo to furniſh your ſoul, that you may die piouſly,<note n="ſ" place="margin">Hujuſmodi comparandae ſunt opes quae ſimul cum naufragio ena<g ref="char:EOLhyphen"/>tent.</note> to get ſuch riches as will ſwim out with you in a ſhipwrack, to be<note n="t" place="margin">Luke 22.21.</note> rich towards God,<note n="u" place="margin">
+                  <hi>Jam.</hi> 2.5.</note> to be rich in faith, to be rich<note n="*" place="margin">1 <hi>Tim.</hi> 6.18, 19.</note> in good works (Alas how poor is that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who hath no other riches then what are at the courteſie of the thief, mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and death!) hereby you will lay up a good foundation againſt the time to come and lay hold on eternal life.</p>
+            <p>It will ſhew you, how abſolutely neceſſary an experi<g ref="char:EOLhyphen"/>mental knowledge of a crucified Chriſt is to a dying Chriſtian; that no weapon is more requiſite (for us to have and uſe) when we enter the liſts and encounter with our laſt enemy, then the ſhield of faith: O how cheering and comforting to a dying body will the warm blood of the Lord Jeſus be, being applied by a true lively faith to the ſoul! He and he only may look on the King of terrours without fear, that hath firſt looked on the King of Saints with the eye of faith.</p>
+            <pb facs="tcp:118821:4"/>
+            <p>It will acquaint you that a ſaving work of grace muſt be wrought, upon the heart, before death can be a paſſage to the weight of glory.<note place="margin">A Painter may paint fire, but he cannot paint heat. A perſon civilli<g ref="char:EOLhyphen"/>zed may attain to the out<g ref="char:EOLhyphen"/>ward actions, but cannot to the inward af<g ref="char:EOLhyphen"/>fections of a ſanctified Chriſtian.</note> That all the godlineſs of an unregenerate man will die with him. That the lamp of profeſſion which ſhineth gloriouſly whilſt a man liveth, if it be not fed from oyl in the veſſel, true grace in the heart, a renewed nature, the image of God ſtamped on the ſoul, it will go out in a ſtink when he dieth, and not advantage him at all. And therefore Chriſtians ſhould not like ſome Tradeſmen live altogether upon their credit with others, but labour to find ſome teſtimony within them, that there is a real change wrought upon them.</p>
+            <p>It will tell you, that it highly concerneth you to be labo<g ref="char:EOLhyphen"/>rious for your ſoul, for your Saviour now you live, becauſe you muſt reſt when you die. That you ſhould be much in thinking highly of God, in ſpeaking humbly to God, in acting vigorouſly for God.<note n="*" place="margin">1 Cor. 15. <hi>ult.</hi>
+               </note> That you ſhould abound more and more in the work of the Lord. Saints muſt not<note n="*" place="margin">Joſh. 10.12, 13. Falſi illi ſunt, qui diverſiſſi<g ref="char:EOLhyphen"/>mas res expe<g ref="char:EOLhyphen"/>ctant, ignaviae voluptatem, &amp; praemia virtu<g ref="char:EOLhyphen"/>tis. <hi>Saluſt.</hi> Non incepiſſe ſed perfeciſſe virtutis eſt. <hi>Aug. ad fratr. in erem.</hi>
+               </note> like <hi>Joſhua's</hi> Moon ſtand ſtill, much leſs like Crabs goe back<g ref="char:EOLhyphen"/>ward; no, not like the Snail, creep forward; but like the Sun, rejoyce to run his race. The path of the juſt muſt be like the ſhining light, that ſhineth brighter and brighter to perfect day, <hi>Prov.</hi> 4.18.</p>
+            <p>Truth of grace is ever followed with growth in grace. though perfection be the honour and reward onely of the Saints in Heaven, yet it is the deſire and endeavour of the Saints on earth. That you ſhould perſevere and encreaſe both by your pattern and precept, in diſcouraging the bad, and encouraging the good. That you ſhould improve all op<g ref="char:EOLhyphen"/>portunities, employ every talent, your honour, riches, power, life, health, ſtrength, relations, intereſts, all you have, are or can be, to the utmoſt in his ſervice, and for his for glory, who (I hope) hath loved you, and waſhed you in his blood.<note place="margin">Gen. 47.6.</note> 
+               <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> would have active men to be his ſervants; the great
+<pb facs="tcp:118821:5"/> King of heaven is a pure act and he loveth moſt and liketh beſt thoſe ſervants that are moſt active for him. Hereby you will pleaſe the moſt high God, though hereby you will diſpleaſe prophane men. The world indeed whom the Spi<g ref="char:EOLhyphen"/>rit of God compareth to<note n="e" place="margin">2 Pet. 2. <hi>ult.</hi> His ſpeech ſa<g ref="char:EOLhyphen"/>voured more of wit, then grace, who counſelled his friend not to come too nigh unto truth, leſt his teeth ſhould be bea<g ref="char:EOLhyphen"/>ten out with its heeles.</note> dogs, if a man go ſoftly will be quiet; but if he ride a pace in the way to heaven, they will bark exceedingly, yea and bite if they can: do but hinder their progreſs in ſin, and like waters ſtopt at a bridge they will roar and make a noiſe to purpoſe: But ſurely the fa<g ref="char:EOLhyphen"/>vour of God will bear up the heart againſt all the anger of men. Thoſe perſons which the wicked beſmear with ca<g ref="char:EOLhyphen"/>lumny, and thoſe actions which ungodly men ſpeak of with ſcorn and contempt, God will entertain with an <hi>Euge</hi> and reward with glory:<note n="f" place="margin">Matth. 25.21.</note> 
+               <hi>Well done good and Faithfull ſervant, thou haſt been faithful over a few things, I will make thee ruler over many Cities, enter thou into the joy of thy Lord.</hi>
+            </p>
+            <p>Sir, My hearts deſire and prayer to God for <hi>Rickmer<g ref="char:EOLhyphen"/>ſworth</hi> is, that it might be ſaved. And I hope the Divine providence wil ere long put a greater price into your hands then ever yet you had, wherein you may manifeſt your fear of his Majeſty, your zeal for his glory, your hatred of ini<g ref="char:EOLhyphen"/>quity and your real love to the place of your Nativity: which that you may faithfully diſcharge at this day, and comfortably account for at the laſt day, and that you and yours,<note place="margin">2 Cor. 5.1.</note> when theſe earthly houſes of your tabernacles ſhall be diſſolved, may have a building of God, an houſe not made with hands, but eternall in the Heavens, ſhall be the prayer of him whoſe deſire is to be</p>
+            <closer>
+               <dateline>Rickmerſworth <date>June <hi>1. 1657.</hi>
+                  </date>
+               </dateline>
+               <signed>Your faithful ſervant in the work of your faith GEORGE SWINNOCK.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118821:5"/>
+            <head>The GODS Die like MEN, OR MAGISTRATES <hi>are Mortall.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 82. v. 6, 7.</hi>
+                  </bibl>
+                  <p>I have ſaid, Ye are gods: and all of you are children of the moſt High.</p>
+                  <p>But ye ſhall die like men, and fall like one of the Princes.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>Ne<note n="a" place="margin">Ambr. <hi>Offic. lib.</hi> 1. <hi>cap.</hi> 32.</note> of the Fathers reſembleth the whole Bible to the viſible Heavens, wherein ſaith he, the Pſalms are like the Sun, whoſe beams ſhine brightly, and rays warm comfortably. An <hi>Engliſh</hi> Divine compareth all the Scri<g ref="char:EOLhyphen"/>ptures to the body of Man,<note place="margin">Luther <hi>calleth them</hi> parva biblia, &amp; ſum<g ref="char:EOLhyphen"/>marium utriuſ<g ref="char:EOLhyphen"/>que teſtamenti.</note> and the Pſalms to the heart, the moſt Pathetick part, the ſeat and center of ſweet affections. Nay as one obſerveth, the very <hi>Turks,</hi> that diſclaim both Old and New Teſtament in general, yet will ſwear as ſolemnly by the Pſalms of <hi>David,</hi> as by the Alchoran of <hi>Mahomet.</hi> But what need have we of the teſti<g ref="char:EOLhyphen"/>mony of men? when God is pleaſed to give ſuch large witneſſe in the Goſpel to this book of Pſalms. In which the Pſalms are quoted above ſixty<note n="b" place="margin">Leighs <hi>hiſt. p.</hi> 35.</note> times. The Apoſtle calleth them <hi>ſpirituall</hi>
+               <note n="c" place="margin">Coloſ. 3.16.</note> 
+               <hi>ſongs,</hi> both becauſe they were
+<pb n="2" facs="tcp:118821:6"/> inſpired by the holy Spirit of God, and becauſe they are in<g ref="char:EOLhyphen"/>ſtrumental to ſpiritualize mens affections, and alſo becauſe they do ſute with mens ſpirits; they are ſo penned, that every man may think they ſpeak <hi>de ſe, in re ſua,</hi> of himſelf and to his own condition.</p>
+            <p>
+               <note n="*" place="margin">Quia reges &amp; quicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> po<g ref="char:EOLhyphen"/>teſtate praediti ſunt, immenſam ſibi licentiam, faſtu excoecati, ut plurimum indulgent: de<g ref="char:EOLhyphen"/>nunciat Pro<g ref="char:EOLhyphen"/>pheta, redden<g ref="char:EOLhyphen"/>dam eſſe ratio<g ref="char:EOLhyphen"/>nem ſummo ju<g ref="char:EOLhyphen"/>dici qui omnem mundi celſitu<g ref="char:EOLhyphen"/>dinem ſupere<g ref="char:EOLhyphen"/>minet. <hi>Calvin.</hi> argu. <hi>Pſal. 82.</hi>
+               </note>This 82 Pſalm containeth a ſevere reprehenſion of ſu<g ref="char:EOLhyphen"/>periours, for their ungodly oppreſſion of inferiours.</p>
+            <p>The Text preſenteth you with their Majeſty and with their Mortality. In Verſe 6. <hi>They are gods; and children of the moſt High:</hi> there is there Majeſty. In Verſe 7. <hi>They die like men, and fall like Princes:</hi> there is their Mortality.</p>
+            <p>
+               <hi>Plautus</hi> telleth us concerning <hi>Hercules,</hi> that he was the ſon of <hi>uJpiter,</hi> and ſo immortal, and the ſon of <hi>Amphitrus,</hi> and ſo mortal: The former Verſe ſpeaketh that <hi>Ye are the ſons of God;</hi> thereby ye ſeem to be immortal: but the latter pronounceth plainly that <hi>Ye ſhall die like men;</hi> and there<g ref="char:EOLhyphen"/>fore it is apparent ye are mortal.</p>
+            <p>In Verſe 6. Ye are exalted as high as Heaven; <hi>I have ſaid, Ye are gods.</hi> In the 7. <hi>v.</hi> Ye are debaſed as low as Earth; <hi>But ye ſhall die.</hi>
+            </p>
+            <p>In <hi>ver.</hi> 6. How beautiful are your features? how Evange<g ref="char:EOLhyphen"/>lical are your faces? Nay, how God-like are your looks? <hi>I have ſaid, Ye are gods.</hi> In the 7. when the other ſide of the Picture is turned, what hoary heads? what heavy hearts? what quivering lips? what trembling loyns? what dying fleſh? what decaying ſpirts have ye?</p>
+            <p>
+               <note n="‖" place="margin">
+                  <p>
+                     <g ref="char:V">Ʋ</g>t caeteri omnes natura ſunt obnoxii morti, &amp; qui<g ref="char:EOLhyphen"/>dem aeternae damnationi, ſi in delictis ad<g ref="char:EOLhyphen"/>verſus conſci<g ref="char:EOLhyphen"/>entiam ad ex<g ref="char:EOLhyphen"/>tremum uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> perſeverent: ita ſcitote vos quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> iiſdem legibus ſubjectos eſſe. <hi>Moller.</hi> in loc.</p>
+                  <p>Ea cogitatio de fragilitate veſtra &amp; de poenis ſecuturis commone fa<g ref="char:EOLhyphen"/>cere &amp; ex<g ref="char:EOLhyphen"/>citare vos de<g ref="char:EOLhyphen"/>bebat, ut in pro<g ref="char:EOLhyphen"/>curatione mu<g ref="char:EOLhyphen"/>neris veſtri majore diligen<g ref="char:EOLhyphen"/>tia &amp; ſtudio verſaremini, <hi>Idem ibid.</hi>
+                  </p>
+               </note>And it is not without cauſe that the Spirit of God ſub<g ref="char:EOLhyphen"/>joyneth your humanity to your Deity, your Mortality to your Majeſty, as a means to prevent ſin, and as a curbe to re<g ref="char:EOLhyphen"/>ſtrain you from making your Luſt your law, or your Will the rule of all your actions.</p>
+            <p>In the words we have the Mortality of the Magiſtrate (namely from the ſeventh Verſe) Firſt affirmed, <hi>Ye ſhall die like men.</hi> Secondly amplified, <hi>and fall like the Princes.</hi> Thirdly confirmed, ſurely and certainly; as ſurely as ye <hi>live like gods,</hi> ſo ſurely <hi>ye ſhall die like men, Certe ſicut homo.</hi> Calvin. Moller. Trem. <hi>legunt.</hi>
+            </p>
+            <p>I have formerly in this place, upon the like occaſion
+<pb n="3" facs="tcp:118821:6"/> from the 6. <hi>v.</hi> diſcovered the dignity of<note n="*" place="margin">At a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Aſſize holden at <hi>Hertford,</hi> for that County, upon the 2. day of <hi>Auguſt,</hi> 1653.</note> Magiſtracy. I ſhall now proceed to the frailty of the Magiſtrate. My work now will be like <hi>Philip</hi>'s youth, to mind you that ye are but men: And I hope there is none here of the <hi>Perſian</hi> Monarchs humour, into whoſe preſence none might come cloathed with<note n="d" place="margin">
+                  <hi>Eſt</hi> 4.2.</note> ſackcloth; nor like <hi>Lewis</hi> the 11th. of <hi>France,</hi> who would not permit the word Death to be named in his Court: For all the Diſh I have to entertain you with at this time, is a Deaths head: Neither ſhall I garniſh that with the flowers of humane eloquence, as knowing there is no need of it. The deformed Harlot wanteth colouring, but the Virgin truth of God is moſt beautiful in her native dreſs. And there is little good by it. A painted window keepeth out the light; a paint<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d fire will not burn; a painted ſword will not cut; and if ever the<note n="a" place="margin">Jer. 23.29.</note> fire of Scripture warm<note n="b" place="margin">Luke 24.32.</note> the heart; or this<note n="c" place="margin">Epheſ. 6.17.</note> ſword of the ſpirit wound the Conſcience, to conviction and converſion, it muſt be drawn out of the gawdy ſcabbard of mans wiſedom.</p>
+            <p>I ſhall firſt ſpeak to the Explication of the words, and then draw the Obſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvation from the words.</p>
+            <p>
+               <hi>But i.e.</hi> For all the glorious titles wherewith ye are inveſted, as gods amongſt mens, and the adminiſtration of juſtice wherewith ye are intruſted, as my Lieutenants on Earth; yet for all this, <hi>Ye ſhall</hi>
+               <note n="d" place="margin">Ac ſi diceret, quum inſtructi ſunt poteſtate ad regendum mundum, non exuiſſe tamen naturam ut mortales eſſe deſinerent. <hi>Calv.</hi> in loc.</note> 
+               <hi>die;</hi> though your names are Divine, your natures are but Humane.</p>
+            <p>
+               <hi>Surely, i.e.</hi> Though ye ſhould flatter your ſelves becauſe ye are <hi>gods,</hi> ye ſhall ever live, yet know certainly that ye are but <hi>men,</hi> and muſt <hi>die.</hi> All God's words are true and ſure; but on ſome there is affixed a ſpecial note of certainty, be<g ref="char:EOLhyphen"/>cauſe of mans (eſpecially great perſons) extraordinary infi<g ref="char:EOLhyphen"/>delity. Though ye ſhould neither regard it, nor provide for it, as if it were a thing of ſmall conſequence, or little con<g ref="char:EOLhyphen"/>cernment, <hi>Yet</hi>
+               <note n="e" place="margin">Job 17.14.</note> 
+               <hi>ye may ſay to corruption, Thou art my father; and to the worm, Thou art my brother and ſiſter.</hi>
+            </p>
+            <p>
+               <hi>Ye ſhall die like men.</hi> Your ſouls and bodies that have been joyned together like husband and wife, ſhall be parted aſun<g ref="char:EOLhyphen"/>der: Death will looſe all bands, untie all knots, even this con<g ref="char:EOLhyphen"/>jugal one, 'twixt ſoul and body, which is the ſtrongeſt of all.</p>
+            <pb n="4" facs="tcp:118821:7"/>
+            <p>
+               <note n="e" place="margin">Sicut plebeius homo. <hi>Tremel.</hi>
+               </note>
+               <hi>Like men. i. e.</hi> Like ordinary men; like <hi>Adam,</hi> ſaith <hi>Ainſworth:</hi> Though in your lives ye are like <hi>Saul,</hi> higher by the head and ſhoulders then the people; yet in your deaths they and you meet, are equal.</p>
+            <p>Two things ye do as men:</p>
+            <p n="1">1. Ye ſin as ye are<note n="f" place="margin">
+                  <hi>1 Cor. 3.3.</hi> Errare huma<g ref="char:EOLhyphen"/>num eſt.</note> men; to walk as a man, is to walk carnally, to walk ſinfully.</p>
+            <p n="2">2. <hi>Ye die as</hi>
+               <note n="g" place="margin">
+                  <hi>Pſal. 9.</hi> ult. quod ſint homi<g ref="char:EOLhyphen"/>nes, <hi>i. e.</hi> quod ſint miſeri, in<g ref="char:EOLhyphen"/>firmi, mortales. <hi>Moll.</hi> in loc.</note> 
+               <hi>men;</hi> to know your ſelves to be men, is to know your ſelves to be mortal.</p>
+            <p>
+               <hi>And fall like one of the Princes.</hi> Theſe words have a double Lection, and four-fold Conſtruction.</p>
+            <p>We read them, <hi>And fall like one of the</hi>
+               <note n="h" place="margin">Et ſicut qui<g ref="char:EOLhyphen"/>libet principes cadetis. <hi>Calv.</hi> Qui exquiſitiſ<g ref="char:EOLhyphen"/>ſimis tormentis cruciantur. Potentes po<g ref="char:EOLhyphen"/>tenter torque<g ref="char:EOLhyphen"/>buntur.</note> 
+               <hi>Princes;</hi> others read them, <hi>And ye Princes ſhall fall like one.</hi>
+            </p>
+            <p>For their four-fold Conſtruction:</p>
+            <p n="1">1. Some underſtand them of a fall into Hell. So ſeveral of the Ancients take them, like the Prince of the Divels; this is true of evil Magiſtrates, death to them is but the trap-door to Hell; the higher their exalation is, the greater and lower their damnation will be. The words of the Prophet are Emphatical,<note n="i" place="margin">
+                  <p>Iſa. 30.33. <hi>Ingentia bene<g ref="char:EOLhyphen"/>ficia, ingentia flagitia, &amp; in<g ref="char:EOLhyphen"/>gentia ſupplicia</hi>
+                  </p>
+                  <p>Kings, ſaith one, are fair marks for traytors to ſhoot at. <hi>Tra.</hi> on Eſth. 2.</p>
+               </note> 
+               <hi>Tophet is prepared of old; yea, for the King it is prepared.</hi> The greater mens preferment is, the greater their defilement, and the greater their puniſhment.</p>
+            <p n="2">2. Others underſtand them of a fall by a violent death. So many Princes fall: In that bloody way, <hi>Saul, Abner, Ahab,</hi> and many other Princes mentioned in Scripture, went to their long homes. The <hi>Roman</hi> Hiſtorian obſerveth, that the <hi>Ceſars</hi> got little by their places, <hi>niſi ut citius interfi<g ref="char:EOLhyphen"/>cerentur.</hi> Some mens honour hath been the Knife to cut their throats.</p>
+            <q>
+               <l>
+                  <note place="margin">
+                     <hi>Horat.</hi> ad Licin.</note>Saepius ventis agitatur iugens</l>
+               <l>Pinus: &amp; celſae graviore caſu</l>
+               <l>Decidunt turres, feriunt<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſummos</l>
+               <l>Fulmina montes.</l>
+            </q>
+            <p n="3">3. A third ſort Expound the words of falling as the Princes of other Nations;<note place="margin">Deodati in loc.</note> though ye are the Princes of God's people, yet ye are not thereby priviledged from the
+<pb n="5" facs="tcp:118821:7"/> arreſt of death. For as the ſun of proſperity ſhineth as well on the briars in the Wilderneſſe, as on the roſes in the Gar<g ref="char:EOLhyphen"/>den: ſo the froſt of adverſity falleth as well on the fruitfull corn as on the hurtful weeds. The moſt notorious ſinner liveth as well as the moſt gracious Saint: and the moſt gracious Saint dyeth as well as the moſt notorious ſinner. Grace is an Antidote againſt the poyſon of death, but not a preſervative from undergoing death.</p>
+            <p n="4">4. The words are conſtrued thus, Like the Princes that have been before you. Ye know that your Anceſtours who were as high in honour and as great in power as your ſelves, yet ſubmitted to death; ſo muſt ye doe as they have done. <hi>Etiam muta clamant cadavera,</hi> Their graves amongſt you do read a Lecture of mortality to you.</p>
+            <p>The term whereby the Spirit of God deſcribeth death, is conſiderable; its called a fall, <hi>and fall like one of the Princes.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">Rom. 14.13.</note>Sin is called a fall, and ſo is death. Death is the firſt<g ref="char:EOLhyphen"/>born of ſin; and therefore no wonder if the Child be called after the name of its Parent.</p>
+            <p>Death is to every man a fall, from every thing but God and godlineſs. Ye that are Magiſtrates fall more ſtairs, yea, more ſtories then others; the higher your ſtanding while ye live, the lower your falling when ye die.</p>
+            <p>Death to ſome is a fall from Earth to Hell; to all from the ſociety of men to the company of worms. To you that are great men, it will be a fall from your richeſt treaſures, from your delightful pleaſures, from your ſtatelieſt poſſeſſi<g ref="char:EOLhyphen"/>ons, from your lovelieſt relations,<note place="margin">Job 7.7.</note> from whatſoever is called the good of this world, <hi>Your eyes ſhall no more ſee good.</hi>
+            </p>
+            <q>
+               <l>
+                  <note place="margin">Hor. <hi>ad</hi> Poſth.</note>Linquenda tellus, &amp; domus &amp; placens</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>xor: ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> harum, quas colis, arborum</l>
+               <l>Te praeter inviſas cupreſſos</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>lla brevem Dominum ſequetur.</l>
+            </q>
+            <p>Death is called an uncloathing,<note place="margin">2 Cor. 5.4.</note> becauſe it will ſtrip you of all your places of honour, of all the ornaments of nature;
+<pb n="6" facs="tcp:118821:8"/> 
+               <hi>As ye came naked into the World,</hi>
+               <note place="margin">Job 1. <hi>ult.</hi>
+               </note> 
+               <hi>ſo ye muſt go naked out of the World.</hi> Nothing will follow you when ye die but your <hi>works.</hi>
+               <note place="margin">Rev. 14.13.</note> When the good Magiſtrate dyeth that hath been zealous for the Lord's honour, and ſtudious of his ſouls wel<g ref="char:EOLhyphen"/>fare; his works follow him through free grace, into an eter<g ref="char:EOLhyphen"/>nal weight of glory. When the evil Magiſtrate dyeth, who hath been careleſs of his Conſcience, and unfaithful in his calling, his works follow him through divine ſeverity, into a boundleſs Ocean of endleſs miſery.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label> After this brief Explication of the words, I proceed to the doctrinal Obſervation.</p>
+            <p>That <hi>Magiſtrates are mortal,</hi> or they who <hi>live like gods, muſt die like men;</hi> the moſt potent Emperour muſt take his leave of this life as well as the pooreſt beggar.</p>
+            <p>Death is called<note n="*" place="margin">Joſh. 23.14.</note> 
+               <hi>the way of all the Earth,</hi> becauſe all fleſh on Earth go this way. Is the greateſt road in the World, never without many travellers, of all ſorts, ranks and degrees. The grave is the Inn or reſting place whither this way tendeth; and <hi>Job</hi> telleth<note n="k" place="margin">Job 3.19.</note> us, that <hi>The ſmall and the great are there.</hi>
+            </p>
+            <p>The mortal ſythe of death is Maſter of the royal Scepter, and moweth down as well the Lillies of the Crown as the graſſe of<note n="l" place="margin">Iſa. 40.6, 7.</note> the Field.<note place="margin">At one end of the Library in <hi>Dublin</hi> was a Globe, at the other end a Skeliton, to ſhew, that though man were Lord of all the World yet he muſt die.</note> 
+               <hi>All fleſh is graſſe, and all the goodlineſs thereof is as the flower of the field. The graſſe withereth, the flower fadeth.</hi>
+            </p>
+            <p>As <hi>Athanaſius</hi> ſpeaketh of <hi>Julian,</hi> ſo I may ſay of the greateſt King in the World, <hi>Nubecula eſt, quae citò tranſibit.</hi>
+            </p>
+            <p>Do we not find by experience, that the greater Candles conſume and burn out as well as the leſſer. And that the boyſterous wind of ſickneſs bloweth down, and rooteth up, as well the tall Cedars of <hi>Lebanon</hi> and the ſtrong Oaks of <hi>Baſhan,</hi> as the lower ſhrubs and weaker trees of the Vallies</p>
+            <p>We Miniſters that preach the Word of life, muſt ere long ſubmit to<note n="m" place="margin">2 Cor. 4.7.</note> death; ye have the Heavenly treaſure <hi>in earthen veſſels.</hi> And you Magiſtrates that are the Bulwarks of the Countrey under God, to preſerve us from the ſhot of a vio<g ref="char:EOLhyphen"/>lent death, muſt neceſſarily your ſelves undergoe a natural
+<pb n="7" facs="tcp:118821:8"/> death. Ye are called<note n="n" place="margin">
+                  <hi>Pſal. 47.9.</hi> Scuta terrae ſunt terrea ſcuta.</note> 
+               <hi>the ſhields of the Earth;</hi> yet ye are but Earthen ſhields. Ye are called <hi>the</hi>
+               <note n="o" place="margin">Iſa. 44.18. As at a game at cheſs, when done, not only pawns, but Kings, Queens and Knights are tumbled into the bag: ſo when the race of life is finiſhed, noble as well as ig<g ref="char:EOLhyphen"/>noble are tumbled into their graves.</note> 
+               <hi>ſhepherds of the people;</hi> but this Wolf of death will ſeiſe as well on the ſhep<g ref="char:EOLhyphen"/>herd as on the ſheep.</p>
+            <p>I ſhall not ſtand to prove it any further at this preſent; there is not one of you either Judge or Juſtic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that hear me this day, but within a few days ſhall be the proof of the text.</p>
+            <p>I ſhall only give you the cauſes of the Doctrine, and then make ſome Uſe of it.</p>
+            <p>
+               <hi>But why do the gods die like men?</hi>
+            </p>
+            <p>There are three Cauſes of it, as they are men.</p>
+            <p>
+               <note n="*" place="margin">
+                  <p>
+                     <hi>Grounds of Doctrine.</hi>
+                  </p>
+                  <p n="1">1 Ethicall cauſe of death is ſin. Rom. 5.12. Rom. 6. <hi>ult. Stipendium peccati mors.</hi>
+                  </p>
+               </note>Firſt, the moral or meritorious cauſe of death is ſin. Sin and death like <hi>Jacob</hi> and <hi>Eſau</hi> were brought forth at one birth; they were twins and came into the World together. As the thread followeth the Needle, ſo death followeth ſin. <hi>Wherefore, as</hi> p <hi>by one man ſin entred into the World, and death by ſin: and ſo death paſſed upon all men, for that all have ſinned.</hi>
+            </p>
+            <p>A worthy Divine of our own doth ſolidly though briefly ſtate that queſtion, <hi>viz.</hi> Whether man had not died, if he had not ſinned; Or whether death be natural or accidental; and doth evidently prove, that mans life ſhould have laſted as long as his obedience; that man had never fallen into his grave, if he had never fallen into tranſgreſſion. H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> died not becauſe his nature was ſubject to corruption, but be<g ref="char:EOLhyphen"/>cauſe ſin had corrupted his nature. If he had not turned from God, he had not returned to duſt: Man was wholly a ſtranger to death, till acquainted with ſin. If he had con<g ref="char:EOLhyphen"/>tinued in a ſtate of innocency, he had continued in a ſtate of immortality.</p>
+            <p>Though <hi>Adam</hi> died not actually aſſoon as he fell, yet he preſently became mortal, and liable to death; for immedi<g ref="char:EOLhyphen"/>ately upon his fall, ſentence was paſſed upon<note n="q" place="margin">Gen. 3.19.</note> him. <hi>Duſt thou art, and to duſt thou ſhalt return;</hi> according to that<note n="r" place="margin">Gen. 2.17. Some ſay the Pope hath a book called <hi>Taxa camerae Apoſtolicae,</hi> ſhe<g ref="char:EOLhyphen"/>wing the rate of every ſin; At what rate one may be drunk, or ſwear, or keepe an Whore.</note> law, <hi>In the day thou eateſt thereof, thou ſhalt ſurely die.</hi> As the Malefactour is a dead man in Law, when the ſentence is pronounced upon him, though there be ſome time between his Condemnation and Execution: ſo was man dead both
+<pb n="8" facs="tcp:118821:9"/> in the decree and threatning of God when the ſentence of death was denounced againſt him,<note place="margin">This word death alone implyeth at what rate man may ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. Death tempo<g ref="char:EOLunhyphen"/>ral which is the ſeparation of body and ſoul; death ſpi<g ref="char:EOLhyphen"/>rituall which is the ſeparati<g ref="char:EOLhyphen"/>on of God and the ſoul, in part, and for a time; eternal which is everlaſting and total perdition from the preſence of the Lord and the glory of his power, are the rate of ſin, and the ſad fruits that grow on this root of bitterneſs. Sin is the father of death; but death like <hi>Senacherib</hi>'s iſſue will at laſt deſtroy its Parent. Sin in the body is like the Leproſie in the houſe, which will not out till it be pulled down; but when the body of the Saint ſhall be diſ<g ref="char:EOLhyphen"/>ſolved, that body of death ſhall be wholly deſtroyed.</note> though there was ſome reſpite between it and his actual diſſolution.</p>
+            <p>Now Magiſtrates ſin; therefore muſt die. If you perform but that duty (of much difficulty, yet of abſolute neceſſity) of communing with your own hearts, &amp; looking ſomtimes back upon your lives, without queſtion you will find beſide your original depravation, a numberleſs number of actual pro<g ref="char:EOLhyphen"/>vocations. I believe the beſt of you are too like the <hi>Egyptian</hi> Temple, without fair and beautiful, but within full of Ser<g ref="char:EOLhyphen"/>pents and Crocodiles. Your lives poſſibly may be unblame<g ref="char:EOLhyphen"/>able as to the eye of man, but are there not ſeven abomina<g ref="char:EOLhyphen"/>tions in your hearts?</p>
+            <p>
+               <note place="margin">2 Cauſe is Phyſical, the corruptibility of mans body. <hi>Contraria in<g ref="char:EOLhyphen"/>ter ſe pugnant, &amp; mutuo ſe deſtruunt.</hi> Gen. 3.19.</note>The ſecond Cauſe of death is the corruptibility of Ma<g ref="char:EOLhyphen"/>giſtrates bodies; this is the natural cauſe, your bodies are corruptible. Its now common to all Creatures mixt of Elements, to be reſolved into that out of which they were made. Contrary qualities will for a time contend, and at laſt deſtroy each other. In the third of <hi>Geneſis</hi> we read mans <hi>exodus, viz.</hi> that he was duſt in regard of his original produ<g ref="char:EOLhyphen"/>ction; and ſhall be duſt in regard of his <hi>ultimate</hi> reſolution.</p>
+            <p>As the fineſt garment breedeth a moth, and that moth eateth up the garment;<note place="margin">
+                  <hi>Phyſitians have a rule,</hi> 
+                  <g ref="char:V">Ʋ</g>ltimus ſani<g ref="char:EOLhyphen"/>tatis gradus, eſt morbo prox<g ref="char:EOLhyphen"/>imus.</note> As the ſtrongeſt tree breedeth a Worm, and that Worm devoureth the tree: So the faireſt and ſtrongeſt bodies breed ſuch diſeaſes as will at laſt con<g ref="char:EOLhyphen"/>ſume them.</p>
+            <p>
+               <hi>Eliphaz</hi> ſpeaking of the higheſt men, aſſureth us, that their <hi>foundation is in the duſt.</hi> Now the ſtability of a buil<g ref="char:EOLhyphen"/>ding dependeth on the ſtrength of its foundation.<note place="margin">Job 4.19.</note> The Church is therefore immoveable, becauſe Chriſt her foun<g ref="char:EOLhyphen"/>dation is invincible;<note place="margin">Matth. 16.18.</note> but our natural foundation being in the duſt, we cannot hold out long. The houſe of mans
+<pb n="9" facs="tcp:118821:9"/> body is walled and roofed with Earth, and founded upon no better then duſt. The bodies of Magiſtrates have the ſame foundation. The Pſalmiſt ſpeaking of a Prince, ſaith,<note place="margin">Pſal. 146.4.</note> that he returneth to his Earth. As if his body could chal<g ref="char:EOLhyphen"/>lenge no alliance to, or propriety in, any thing but Earth.<note place="margin">L. Cur. <hi>and</hi> Plut. in vit.</note> It is <hi>His earth. Alexander</hi> the Great being wounded at the ſiedge of an <hi>Indian</hi> City, ſaid, I have been told, I am the Son of God; but I ſee now I am liable to wounds and death as well as others.</p>
+            <p n="3">3. The ſupernatural cauſe of death, is the appointment of Heaven. <hi>It is appointed for all men once to die,</hi> Heb. 9 27.<note place="margin">3 The Meta<g ref="char:EOLhyphen"/>phyſical cauſe is God's de<g ref="char:EOLhyphen"/>cree.</note>
+            </p>
+            <p>Some men, yea moſt in the World die twice; the ſecond death hath power over them; but all muſt die once. The exception of one or two that were tranſlated, and of them that ſhall be found alive at the comming of Chriſt,<note place="margin">The greateſt Landlords are but Tenants at God's will in theſe houſes of clay.</note> will not make void this general rule.</p>
+            <p>Magiſtrates that Execute the Statute-law of men, die by a ſtanding Law of God. When God is pleaſed to give ſick<g ref="char:EOLhyphen"/>neſs a warrant under the great Seal of Heaven, it quickly executeth its Office and turneth men into Earth. It is thus ordered in God's high Court, that Judges and Juſtices who now ſit on the Bench, ſhall die and appear at his Bar. The <hi>Turkiſh</hi> Hiſtorian obſerveth, that when the great <hi>Baſſaes</hi> are feaſting, oftentimes there commeth a Meſſenger by order from the great <hi>Sultan,</hi> and caſteth a black Mantle over them, and they are preſently forced to ſubmit to ſtrangling: So the proudeſt Potentates in the midſt of their mirth, are often ſurprized by a ſudden diſtemper (commiſſionated by God) and ſent to their long homes.<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe by way of Inference</hi> that nothing can free from death.</note>
+            </p>
+            <p>I ſhall now draw ſome Inferences from the Doctrine.</p>
+            <p>Firſt, If Magiſtrates are mortal, obſerve hence deaths prevalency and power above all the Priviledges and Prero<g ref="char:EOLhyphen"/>gatives of nature.<note place="margin">
+                  <hi>Lib.</hi> 5. in concluſion of <hi>cap. ult.</hi>
+               </note> It is a memorable Speech of Sir <hi>Walter Rawleigh,</hi> Though God who loveth men is not regarded, yet death which hateth men, is quickly obeyed. O mighty death! O eloquent death! whom no man could adviſe or perſwade, thou canſt prevail with: Take notice from hence that nothing in this World can priviledge a man againſt the arreſt of death.</p>
+            <pb n="10" facs="tcp:118821:10"/>
+            <p>
+               <note place="margin">1. Strength cannot.</note>Firſt, ſtrength cannot; all the ſtrength and power which the <hi>gods</hi> have, cannot free them from death. Magiſtrates have civil ſtrength as they are Magiſtrates; the Command of whole Counties, Kingdoms, yea Empires; in this reſpect it is that Magiſtrates are called<note n="ſ" place="margin">Ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us 3.1.</note> 
+               <hi>Principalities and Powers;</hi> yet death hath power over them that hath power over others. <hi>Alexander</hi> and <hi>Ceſar</hi> that Conquered. Countries and Kingdomes, were conquered by death. Magiſtrates have natural ſtrength as they are men, but death trippeth up the heels and layeth on their backs the moſt ſtrong and valiant.<note n="t" place="margin">Job 21.23, 24. <hi>Plato</hi> ſaith, that Marrow is not only the ſourſe of gene<g ref="char:EOLhyphen"/>ration, but the ſeat of life.</note> 
+               <hi>One dyeth in his full ſtrength, being wholly at eaſe and quiet: His breaſts are full of milk, and his bones are moiſtned with marrow.</hi>
+            </p>
+            <p>Put the caſe that a man be in the z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nith and height of his eſtate, when his health is moſt pure, and his ſtrength is moſt perfect, when he hath the choiceſt complexion in his face, and ſoundeſt conſtitution in his body, when there is moſt agility in his joynts, and moſt appetite in his ſtomach; yet even then ſickneſs arreſteth him at the ſuit of death, haleth his body to the priſon of the grave, and ſendeth his ſoul to his own place. Man at his beſt eſtate, yea<note n="u" place="margin">Pſal. 39.5.</note> 
+               <hi>ſurely every man at his beſt eſtate is altogether vanity.</hi>
+            </p>
+            <p>
+               <note place="margin">2. Riches cannot Luke 16.22.</note>Secondly, as the ſtrength, ſo the wealth of Magiſtrates is inſufficient. The holy Ghoſt telleth us, that <hi>the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h man alſo dyed.</hi> Men may put riches into the grave with them,<note place="margin">The <hi>Iriſh</hi> have a Proverb, What aileth a rich man to die?</note> but they will not keep them one moment out of the grave. Death like jealouſie will not regard any ranſome, not be content though men would give many gifts. <hi>Job</hi> ſpeaketh (ſuppoſing that he had dyed) <hi>Then I had been at reſt with Princes that had Gold, and filled their houſes with Silver.</hi> Its reported of Cardinal <hi>Beauford</hi> that when on his death-bed, he ſhould ſay, Fie will not death be hired? will Money doe nothing? if the whole Realm would ſave my life, I am able either by wealth to buy it, or by wit to procure it; but it could not help him, die he did. Money is the Mo<g ref="char:EOLhyphen"/>narch of this World, but not of the next; it can neither ſtave off ſickneſs, nor buy out death.</p>
+            <p>
+               <note place="margin">3. Honours cannot.</note>Thirdly, as neither ſtrength nor wealth; ſo neither can the honours of men help them againſt this laſt enemy.
+<pb n="11" facs="tcp:118821:10"/> How have the higheſt men on Earth been laid as low as the Earth by it? <hi>Man in honour doth not abide;</hi>
+               <note place="margin">Pſal. 49.12.</note> His duration is ſometimes the leſſe, becauſe his reputation is ſo great.</p>
+            <p>
+               <hi>Job</hi> ſpeaketh excellently, <hi>Where is the dwelling place of Princes? who ſhall declare his way to his face?</hi>
+               <note place="margin">Job 21.28.31.</note> This perſon is ſo high that none dareth tell him of his wicked practices.<note place="margin">
+                  <hi>Luther</hi> com<g ref="char:EOLhyphen"/>pla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neth that in his time Magiſtra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es <hi>Elati ſuperbia volebant eſſe ipſo verbo ſu<g ref="char:EOLhyphen"/>periores.</hi>
+               </note> Kings ſaith one, have Clouds in their brows as well as Crowns on their heads; they would be adored like gods, and not reproved like men: Yet theſe men which are ſo high that none muſt ſpeak to them, death will be ſure to ſpeak with them; <hi>Yet he ſhall be brought to the grave, and remain among the Tombes, Job</hi> 21.32. There is much weight in that word; Yet, <hi>i. e.</hi> though he be a Prince ſo proud that he ſcorneth to hear mens reproofs, yet he ſhall be forced to liſten to death's language; though his dwel<g ref="char:EOLhyphen"/>ling place was ſtately amongſt men, yet he ſhall be brought to an homely one amongſt Worms. <hi>Yet he ſhall be brought to his grave, and remain amongſt the Tombes.</hi>
+               <note place="margin">When <hi>Micha<g ref="char:EOLhyphen"/>el Paleologus</hi> Emperour of <hi>Conſtantinople,</hi> ſent for a pre<g ref="char:EOLhyphen"/>ſent to <hi>Nugas</hi> the <hi>Scythian</hi> Prince, certain royal Robes, and rich Ornaments, he ſet light by them, ſaying, <hi>Nunquid calamitates, morbos aut mortem depellere poſſent?</hi>
+               </note> It was a notable ſpeech of the King of <hi>Perſia,</hi> who viſiting <hi>Conſtantine</hi> at <hi>Rome,</hi> was ſhewn the rare Edifices, rich Coffers, and great Honours of the Emperour, <hi>Mira quidem haec, ſed video ut in</hi> Perſia, <hi>ſic</hi> Romae <hi>hommes moriuntur.</hi>
+            </p>
+            <p>If Magiſtrates are mortal;<note place="margin">2. <hi>
+                     <g ref="char:V">Ʋ</g>ſe by way of Inference</hi> of the Magi<g ref="char:EOLhyphen"/>ſtrates folly.</note> how much folly is in him that laboureth moſt for his body? The truth is, there is a ſecret conceit in the hearts of great perſons who have the World at will, that they ſhall not die; it is not <hi>vox oris,</hi> but it is <hi>vox cordis;</hi> they ſtill think of a longer life, though they have lived never ſo long; they can ſee death in other mens brows but not in their own boſomes.<note n="w" place="margin">Pſal. 49.11. How many be too like that Duke <hi>d'Alva,</hi> who b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing aſked whether he had obſer<g ref="char:EOLhyphen"/>ved a late e<g ref="char:EOLhyphen"/>clipſe of the ſun, anſwered, That he had ſo much buſineſs to doe on earth that he he had no time to look up to Heaven; ſo they ſpend ſo much time on their dyi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g bodies, that they can ſpare none for their never dying ſouls.</note> 
+               <hi>Their inward thought is that their houſes ſhall continue for ever, and their dwelling places to all generations.</hi> Hence it commeth to paſſe that they work altogether for this world; ſo they have Earth in their hands, they care not though they have nothing of Heaven in their hearts. Their endeavour is to live in the favour of great men, and not to die in the feare of the great God.</p>
+            <p>How many great Perſons ſpend their time (as <hi>Seneca</hi> ſpeaketh, <hi>inter pectinem &amp; ſpeculum occupati</hi>) between the
+<pb n="12" facs="tcp:118821:11"/> Comb and the Glaſſe, and not between Scripture and Prayer; their labour is to go finely, to fare deliciouſly, to live honourably, to proſper outwardly: but not to honour God fruitfully, to diſcharge that truſt which is committed to them faithfully, or to work out their own Salvation di<g ref="char:EOLhyphen"/>ligently.</p>
+            <p>There is a ſtory of a fat man riding through <hi>Rome</hi> on a lean horſe; it was demanded how it came to paſſe that he being ſo exceeding fat, his horſe was ſo lean? he anſwereth, <hi>Ego meipſum, ſtabularius equum curat,</hi> I mind my ſelf, but my Groom looketh after my Horſe. Too many God knoweth have fat bodies and lean ſouls; their outward man is flou<g ref="char:EOLhyphen"/>riſhing, their inward man is periſhing: and the reaſon is, they themſelves regard their bodies, but they ſay they truſt God (or more truly the Divel) with their ſouls.</p>
+            <p>Prince <hi>Abſalon</hi> is a fit reſemblance of ſuch perſons; whilſt he lived he provided ſomewhat againſt the time he muſt die; But what doth he provide? only a place for his body to reſt in. The Spirit of God takes ſpecial notice how provident this ambitious youngſter was for his body.<note place="margin">2 Sam. 18.18.</note> 
+               <hi>Now</hi> Abſalon <hi>in his life time had reared up for himſelf a Pillar.</hi> But he never thinketh of his precious ſoul, where that might reſt when it left his body. How fooliſh and faulty are many Magiſtrates in this particular? whilſt they live they take ſpecial care that when they die, their bodies be in ſuch a vault interred, with ſuch a company of mourners attended, that ſuch a Mo<g ref="char:EOLhyphen"/>nument be e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected, but take no care that when their bodies go to the houſe appointed for all the living, their ſouls might go to that houſe which is not made with hands but eternal in the Heavens. They little conſider, that when their Friends are weeping over their bodies, the Divels may be laughing over their ſouls.</p>
+            <p>O unſpeakable folly! to make much of the Cabinet and diſeſteem of the Jewel, to trim the Scabbard and let the ſword ruſt; like <hi>Shimei</hi> to ſeek their ſervants and loſe them<g ref="char:EOLhyphen"/>ſelves. Man in regard of his body claimeth kinred with the beaſts of the field, in regard of his ſoul with the Angels of Heaven; and yet this beaſtial part is pampered whilſt the Angelical is ſtarved.</p>
+            <pb n="13" facs="tcp:118821:11"/>
+            <p>It is ſtoried of <hi>Archimides</hi> that when <hi>Syracuſe</hi> was taken by the <hi>Romans,</hi> he was ſecure in his Cloſet,<note place="margin">Plut. <hi>in vit.</hi> Marcell.</note> drawing circles with his Compaſſe in the duſt, and was then and there ſlain. So theſe men ordinarily leave the Earth when they are moſt buſie about it.</p>
+            <p>How did the fool in the Goſpel promiſe himſelf a long and a comfortable life? <hi>Soul take thine eaſe,</hi>
+               <note place="margin">Luke 12.20.</note> 
+               <hi>thou haſt goods laid up for many years.</hi> If he had ſaid, Soul take thine eaſe, thou haſt a treaſure in Heaven, or thou haſt Chriſt who will doe thee good to eternity, it had been ſomewhat like: but <hi>thou haſt goods</hi> ſaith he. Alas; how irrational is this? you may aſſoon ſatiate or content <hi>corpus aura,</hi> as <hi>animam auro,</hi> the body with wind as the ſoul with wealth. But I beſeech you conſider, he that thought then to begin to take his eaſe is forced that night to make his end. He was but a little before flouriſhing exceedingly, his mind full of mirth, his heart full of hope, and his ſoul full of expected ſatisfa<g ref="char:EOLhyphen"/>ction; But on a ſudden he is departed, and all his high hopes fruſtrated: If you ask me, whither he is gone? his eſtate to men, his body to the grave, his ſoul to Hell. Poor wretch! little did he dream when he was aſleep in ſin,<note place="margin">How many die like thoſe that are ſtung of the Tarantula a viper in <hi>Ita<g ref="char:EOLhyphen"/>ly,</hi> that even di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laughing though they are going to the place where is no<g ref="char:EOLhyphen"/>thing but weeping.</note> of going from a bed of feathers to a bed of fire. But too too many like him go from carnal pleaſures to eternal pains. Take notice how ſecure this rich fool was; and yet his ſe<g ref="char:EOLhyphen"/>curity was but the forerunner of his future calamity. When the Wind lyeth, then the great rain falleth. When the Air is moſt quiet, then commeth the great Earth-quake. When <hi>Siſera</hi> was aſleep, then his Head was nailed to the ground. <hi>Pharaoh</hi> in his Chariot, <hi>Belſhazzar</hi> in his bowls, <hi>Haman</hi> at his banquet, <hi>Herod</hi> in his rob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, are ſecure but not ſafe; when they leaſt looked for it, death ſurprized them; <hi>When they cryed peace peace, then ſudden deſtruction ſeized on them, as travail on a woman with child,<note place="margin">1 Theſ. 5.3.</note> which they could not eſcape.</hi>
+            </p>
+            <p>Ambitious like the Jay, They are pruning and priding themſelves on the top of ſome high tree, when ſuddenly a ſhot from a Fowler tumbleth it down dead to the Earth.</p>
+            <p>Covetous like Ants; How buſie are they? like a com<g ref="char:EOLhyphen"/>pany of Ants about white and yellow Earth, when death
+<pb n="14" facs="tcp:118821:12"/> like the feet of the next paſſenger cruſheth them to pieces. Voluptuous like the little Fiſh that ſwims merrily down the ſilver ſtreams of <hi>Jordan,</hi> till they empty themſelves into the dead Sea and there periſh.</p>
+            <p>The worlds greateſt darlings are in no better condition then the Bull that goeth to be ſacrificed with a Garland on his head, and Muſique before him, when ſuddenly he feeleth the ſtroke of the murdering Axe, and is knockt down dead.</p>
+            <p>
+               <note place="margin">Job 21. ver. 7. to 13. They ſpend their days in wealth, and end their days in endleſs wo.</note>I ſhall conclude this Uſe with <hi>Job</hi>'s Character of this rich ſinner, who flouriſhing for a time and periſheth to eternity; <hi>The wicked live, become old, yea are mighty in power. They ſend forth their little ones like a flock, and their children dance. They ſpend their days in wealth, and in a moment go down to Hell.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe by way of advice,</hi> Prepare for your dying hour. Iſa. 38.6. Doe it ſpee<g ref="char:EOLhyphen"/>dily.</note>Exam. <hi>Are Magiſtrates mortall?</hi> Let me then in the fear of the Lord, beſeech you that are Magiſtrates, now preſently to make preparation for the hour of your diſſolutions. My counſel ſhall be with a little alteration, in the words of the Prophet <hi>Iſaiah</hi> to King <hi>Hezekiah; Now ſet your houſe in order, for you muſt die.</hi> I muſt tell you all the time ye have is little enough for a work of this weight: If <hi>Seneca</hi> can ſay, all a mans life is little enough for Philoſophy, <hi>etiamſi a pae<g ref="char:EOLhyphen"/>ritia, uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad longiſſimos humani aeviterminos vita protendatur,</hi> though the ſilver-wyre of life ſhould be drawn out to the longeſt thread; I am ſure then that all your time is little enough for Chriſtianity. Ye have a great work to doe, a great journey to go, and a little time will not be ſuffi<g ref="char:EOLhyphen"/>cient. Make much of time, ſaith <hi>Aquinas,</hi> eſpecially in the weighty matters of Salvation: O how much would he, that now lyeth frying in Hell rejoyce, if he might have the leaſt moment to get God's favour in! The ſun of your lives (Bleſſed be God) is not yet let, the gate of mercy is not yet ſhut; I requeſt you before the bridge of divine grace be drawn, in this day of God's patience, mind the things that concern your eternal peace. <hi>Auſtin</hi> profeſſeth, he would not be an Atheiſt one quarter of an hour for a world, becauſe he did not know, but in that time, God might cut aſunder his thread of life, and ſo let him drop into Hell.</p>
+            <pb n="15" facs="tcp:118821:12"/>
+            <p>Let me perſwade you, and the good Lord prevail with your hearts, to ſet your ſelves ſpeedily about this neceſſary work. Delays are dangerous, eſpecially in a buſineſs of infi<g ref="char:EOLhyphen"/>nite concernment.<note place="margin">
+                  <hi>Mat. 24.44.</hi> Ideo latet unus dies, ut obſer<g ref="char:EOLhyphen"/>ventur omnes.</note> How earneſtly doth our bleſſed Saviour exhort you, <hi>to be always ready, becauſe ye know not at what hour your Maſter will call you. Ceſar</hi> would never acquaint his Souldiers with the time of removing his Campe, that they might be always prepared to march.</p>
+            <p>Conſider that on this moment dependeth eternity;<note place="margin">
+                  <hi>Petrach</hi> rela<g ref="char:EOLhyphen"/>teth an anſwer of one, who being invited to dinner a day after, ſaid, <hi>A mu tis annis craſtinum non habui. Quam ſerum eſt tunc vivere incipere, cum deſinendum eſt!</hi> Sen. <hi>ad</hi> Pau<g ref="char:EOLhyphen"/>lin. <hi>cap.</hi> 4.</note> God hangeth heavy weights on weak wyers. And how dolefully have many complained, and mournfully lamented their loſſe of time, when it hath been too late. That ſtory of a great Lady of our land, which ſeveral ſpeak of, may awaken ſecure on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, when on her death-bed ſhe dreadfully ſcreeched out, <hi>A World of Wealth for an inch of time, A world of wealth for an inch of time.</hi> And I have read of <hi>Chryſorius</hi> a man as full of wickedneſs as of wealth, when he commeth to die, cryeth out, <hi>Induc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad mane, Domine,</hi> Truce, Lord, but till morning, Truce, Lord, but till morning; and with theſe words he breathed out his laſt, <hi>Alterius perditio, tua ſit cautio,</hi> Let that which was a murdering piece to others, be a warning piece to thee.</p>
+            <p>Do but think, ſhould God permit a danmed ſinner that is now in Hell, to come and ſit but one hour amongſt you, under the Goſpel of the Kingdome of Heaven, how highly would he prize this preſent opportunity; how greedily would he embrace every tender of mercy; how eagerly would he catch at every word of comfort; how heartily would he cloſe with Chriſt upon the hardeſt terms? I am perſwaded ye ſhould behold him with ſuch ſtreams of tears watering his cheeks, as if he were diſſolved into a fountain. And will ye trifle away ſuch golden ſeaſons, and waſte ſuch precious advantages, which others would purchaſe with worlds, if they had them to give; nay which ye your ſelves would redeem hereafter with your heart blood, but ſhall not be able; O therefore now prize time,<note place="margin">Quare O miſer, non omni hora ad mortem te diſponis? cogita te jam mortuum quem ſcis neceſſitate moriturum; mors enim inopiae non miſeretur, divitias non reveretur; non ſapientiae, non moribus, non aetati parcit, niſi quod ſenibus mors eſt in januis, juvenibus vero in inſidiis. <hi>Bern.</hi>
+               </note> before you come to enter upon eternity.</p>
+            <pb n="16" facs="tcp:118821:13"/>
+            <p>
+               <note place="margin">Be ſerious in your prepara<g ref="char:EOLhyphen"/>tion for death.</note>And yet a little further to preſſe this needful duty upon your ſpirits; O that, if it were the will of God, I had the tongue, the underſtanding, the affections of an Angel! how willingly would I improve them to the utmoſt, and ſerue them up to the higheſt pitch in exhorting you to this weighty and abſolutely neceſſary work!</p>
+            <p>This, this is the one thing neceſſary; this, this is the whole duty of man;<note place="margin">Mors eſt aeter<g ref="char:EOLhyphen"/>nitatis oſtium.</note> this is the great end for which ye were born, and the great errand for which ye were ſent into the World. Its a work of infinite weight, and a buſineſſe of everlaſting concernment. I ſpeak to you that are great men, and I aſſure you from the great God, that ye muſt die, and that ye muſt come ere long to doe that which ye never did before, nor never ſhall doe again; even this, to throw your laſt caſt for eternity. Your everlaſting weal or woe, joy or ſorrow, pleaſure or pain dependeth on your well dying. As <hi>Scipio</hi> ſaid, <hi>In bello non licet bis peccare;</hi> So may I of death as he of War, in death there is no erring twice; he that erreth once errs for ever. Aſſoon as ever your ſouls launch out of your bodies, they ſail to the Ocean of eternity.<note place="margin">
+                  <hi>Ca yl.</hi> on Job.</note> That we tranſgreſſe the laws of living ſo often is the aggravation of iniquity on all men; but that we can tranſgreſſe the laws of dying but once is the ſeal of miſery on moſt men.</p>
+            <p>How pathetically doth God wiſh, that man would mind this real wiſdome;<note place="margin">Deut. 32.29. <hi>Vid.</hi> 1 Tim. 6.17, 18, 19. Pro. 19.20.</note> 
+               <hi>O that my people were wiſe, then would they conſider their latter end; or that they would conſider their latter end.</hi>
+            </p>
+            <p>It ſeemeth to me one of the dolefulleſt ſayings in the book of God, (and by the way let men guilty of bribery or op<g ref="char:EOLhyphen"/>preſſion think of it) <hi>He that getteth goods and not by right,</hi>
+               <note place="margin">Jer. 17.11.</note> 
+               <hi>ſhall leave them in the midſt of his days, and in his latter end ſhal be a fool.</hi> To be a fool in the judgment or account of Scri<g ref="char:EOLhyphen"/>pture, while a man liveth, ſpeaketh his condition very dan<g ref="char:EOLhyphen"/>gerous: but to be a fool when he dyeth, ſpeaketh his eſtate altogether deſperate. For a Veſſel to leak much in the har<g ref="char:EOLhyphen"/>bour is ſad; but O how ſad is it for the Veſſel to leak in the main, in the Ocean! It was <hi>Auſtin</hi>'s prayer, <hi>Hic ure, ſeca, ibi parce,</hi> Lord launce me, burn me here, but ſpare me hereafter.</p>
+            <pb n="17" facs="tcp:118821:13"/>
+            <p>And the deſire of <hi>Fulgentius, Domine, hic da patientiam, poſtea indulgentiam.</hi>
+            </p>
+            <p>But it is very emphatical and obſervable in the fore-quo<g ref="char:EOLhyphen"/>ted place, that the holy Ghoſt ſpeaketh, <hi>In his latter end he ſhall be a fool.</hi> He was a fool before in the eſtimation of God, and in the opinion of godly men; but now in his latter end, he is a fool in the conviction and acknowledge<g ref="char:EOLhyphen"/>ment of his own conſcience; and now he will think, O what a fool was I? who was ever dying, never to live, to my Saviour, to my ſoul; What a fool was I? to reſpect ſo ex<g ref="char:EOLhyphen"/>ceedingly my vile tranſitory body, and to neglect ſo unwor<g ref="char:EOLhyphen"/>thily my precious immortal ſoul. What a fool was I? to make ſo much proviſion for a little time, and ſo little pre<g ref="char:EOLhyphen"/>paration for eternity. What a fool was I? to be ſo dili<g ref="char:EOLhyphen"/>gent about Earth, and ſo negligent about Heaven; ſo care<g ref="char:EOLhyphen"/>ful about periſhing decaying vanities, and ſo ſlothful about reall enduring felicities.</p>
+            <p>
+               <hi>Pliny</hi> obſerveth of the Mole, that though it be blind all its time of living, yet when it commeth to die, <hi>Oculos incipit aperire, moriendo,</hi> then it ſeeth. Men that whilſt they live are blind in the worth of their ſouls, inſenſible of the weight of their ſins, ignorant in the ſeverity of divine juſtice, in<g ref="char:EOLhyphen"/>credulous about the neceſſity of the new birth; when they come to die their eyes are opened, and they ſee all theſe things cleerly;<note place="margin">Lam. 1.9. Mumb. 24.20.</note> and O then what a doleful ſcreech will that ſoul give, that ſtands quivering upon the pale lips of a dying man, ready to fly to its eternal home, and ſeeth nothing be<g ref="char:EOLhyphen"/>fore it, but a bottomleſs boundleſs Ocean of the wrath of God, in which it muſt ſwim naked for ever, ever, ever.</p>
+            <p>My Lords and Gentlemen, I beſeech you attend diligent<g ref="char:EOLhyphen"/>ly, that this Sermon, which is a funeral Sermon in regard of its ſubject, may be a reſurrection Sermon in regagd of its effect. Who knoweth what a day, yea what a great bellied hour may bring forth; I can aſſure you, this Sermon is a child of ſome prayers, yea and of ſome tears; therefore I hope it ſhall not periſh. If I ſpeak not the word of God, the mind of Chriſt, and the meaning of the Spirit, caſt back my words as dung in my face; But if I doe, hear attentively, and practice conſcientiouſly, leaſt my counſel riſe up in
+<pb n="18" facs="tcp:118821:14"/> judgement againſt you, at the great and dreadful day of the Lord.</p>
+            <p>In reference to this great duty of preparing for your dy<g ref="char:EOLhyphen"/>ing day, I ſhall commend ſix particulars to your moſt ſerious thoughts; my prayer ſhall be that they may all, eſpecially the two latter be written in your hearts.</p>
+            <p n="1">
+               <note place="margin">1 Execute ju<g ref="char:EOLhyphen"/>ſtice impar<g ref="char:EOLhyphen"/>tially.</note>1. Diſcharge your truſt faithfully; the way to have great confidence when ye die, is to keep a good Conſcience whilſt ye live. Were Judges and Juſtices always to live upon Earth, there were no ſuch reaſon for the impartial Execution of juſtice; but God acquainteth you this day, that <hi>ye muſt die,</hi>
+               <note place="margin">Heb. 9.27.</note> 
+               <hi>and after death commeth judgement.</hi>
+            </p>
+            <q>
+               <l>Judex nuper eram jam judicis ante tribunal,</l>
+               <l>Subſiſtens paveo judicor ipſe modo.</l>
+            </q>
+            <p>Ye are but Stewards and within a ſhort time ye muſt give an account of your ſtewardſhip. It behoveth you when you ſit on the Bench of men to act faithfully, that when ye ſhall appear at the Bar of God ye may anſwer comfortably. Remember when ye are paſſing ſentence of life or death on others, that Chriſt ere long will paſſe a ſentence far more weighty even of eternal life or death on you.</p>
+            <p>
+               <note place="margin">Iſid.</note>Its reported concerning the Emperours of <hi>Conſtantinople,</hi> that on their Coronation day, a Maſon is appointed to pre<g ref="char:EOLhyphen"/>ſent unto them certain Marble ſtones, ſaying theſe Verſes,
+<q>
+                  <l>Elege ab his ſaxis ex quo (invictiſſime <hi>Ceſar</hi>)</l>
+                  <l>
+                     <note place="margin">Chooſe (Mighty Sir) under which of theſe ſtones your pleaſure is ere long to lay your bones.</note>Ipſe tibi tumulum me fabricare velis.</l>
+               </q>
+            </p>
+            <p>If ye that now are in robes would conſider, death will levell you with them that are in rags; if ye would with the eye of your meditation, behold your Coffins ſtanding be<g ref="char:EOLhyphen"/>fore you, on the table in the place of judicature, it might be an excellent curb to iniquity, and ſpur to fidelity.</p>
+            <p>
+               <note place="margin">4 Requiſites in a good Ma<g ref="char:EOLhyphen"/>giſtrate. 1. Magnani<g ref="char:EOLhyphen"/>mity.</note>Now there are four things requiſite in a Magiſtrate that would diſcharge his truſt faithfully.</p>
+            <p>Firſt, courage and magnamity, Every magiſtrate ſhould be a man of mettle, not daunted with dangers, nor frighted
+<pb n="19" facs="tcp:118821:14"/> with frowns. He ſhould ſo carry himſelf that others ſhould fear him, (as a terror to evil doers) but he ſhould fear no<g ref="char:EOLhyphen"/>thing but ſin. Like <hi>Chryſoſtom,</hi> who when a threatning Meſſage was ſent him from the Empreſſe <hi>Eudoxia,</hi> go tell her, ſaid he to the Meſſenger, <hi>Nill timeo niſi peccatum.</hi> Ye are called the <hi>ſhields of the people;</hi>
+               <note place="margin">Pſal. 47. <hi>ult.</hi>
+               </note> and ſhields ye know are ven<g ref="char:EOLhyphen"/>trous weapons, they are made to bear many blows. <hi>Be thou ſtrong and very couragious,</hi>
+               <note place="margin">Joſh. 1.7.</note> ſaith God to the chief Magiſtrate of <hi>Iſrael.</hi>
+               <note place="margin">2 Chron. 9.18. <hi>Dureſcito Dureſcito O infelix Lantgravie</hi> ſaid the poor Smith to the <hi>Lantgrave</hi> of <hi>Thuringia,</hi> who was more mild then ſtood with his peoples profit, The ſword of juſtice ſaith one, ought to be furbiſhed with the oyl of mercy; But there are caſes wherein ſeverity ſhould caſt the ſcale.</note> The throne of <hi>Solomon</hi> was underpropped with Lions; and a Lion is part of the Royal arms, both ſpeaking that a Lion-like ſpirit is becomming him that is in a pub<g ref="char:EOLhyphen"/>like place, <hi>Deut.</hi> 1.17.</p>
+            <p>Secondly, uprightneſs and integrity,<note place="margin">2. Integrity. Its reported of a King of <hi>Per<g ref="char:EOLhyphen"/>ſia,</hi> that he would come of from his horſe upon the way to doe juſtice to a poor man.</note> A Magiſtrate as he ſhould not be frighted with fear, ſo not ſwayd by favour: Ye ſhould be like a Boul without a byas running on fairly and evenly, not leaning on this ſide or on that ſide; like the Sun which affordeth as gracious influences to the low violets as to the tall cedar, to the pooreſt beggar as to the moſt potent Emperour; like a publike Conduit in a City, whence juſtice ſhould run down like water, as freely and as fully to the meaneſt as to the greateſt.<note place="margin">But it was a bad ſpeech of <hi>Ceſar, Cauſa Caſſii melior ſed</hi> Bruto <hi>nil denegare poſ<g ref="char:EOLhyphen"/>ſum.</hi> Plut. <hi>in vit.</hi> Ceſ.</note> Laws were never made to be Nets only to catch the little Fiſh and to let the great ones break through. The great Judge of Heaven is no reſpecter of perſons neither ſhould Juſtices on Earth, <hi>Deut.</hi> 1.17.</p>
+            <p>That Edict of <hi>Conſtantine</hi> was worthy to be written in letters of gold, If any of my Friends, Courtiers or Servants have wronged any, let them come to me, I wil not only right them but reward them.<note place="margin">Plut. <hi>in vit.</hi> Public.</note> And that act of <hi>Brutus</hi> me<g ref="char:EOLhyphen"/>morable, who commanded his two ſons to be executed and ſaw it done, for conſpiring with <hi>Tarquin</hi>'s Ambaſſadors againſt the Commonwealth.</p>
+            <p>Thirdly, bounty and liberality,<note place="margin">3. Liberality. Exod. 18.21. Exod. 23.8.</note> A Juſtice ſhould not only not be covetous, but hate covetouſneſs. Its the duſt of money that is blown up into the Judges eyes, that hindreth their ſight into cauſes.</p>
+            <pb n="20" facs="tcp:118821:15"/>
+            <p>It was a witty ſpeech of a pious<note n="*" place="margin">
+                  <hi>Vines</hi> on 1 Pet. 2.13, 14. p. 25.</note> perſon, He is the beſt Magiſtrate, that is <hi>good for nothing. Ye muſt neither</hi> take bribes your ſelves, nor by your ſervants; for <hi>Optimus &amp; maximus venderetur imperator;</hi> There is not a gift ye take, but will be as a dagger at your hearts another day; like <hi>Achans</hi> wedge of Gold it will cleave your ſouls in ſunder. It will in this particular be happy for him, that when he commeth to die,<note place="margin">1 Sam. 12.2, 3.</note> can ſay as dying <hi>Samuel, Behold, here I am, witneſſe againſt me before the Lord, and before his Anointed: Whoſe Oxe have I taken? or whoſe Aſſe have I taken? or whom have I defrauded? whom have I oppreſſed? or of whoſe hand have I received any bribe to blind mine eyes? And they ſaid, Thou haſt not defrauded nor oppreſſed, nor taken ought of any mans hands.</hi>
+            </p>
+            <p>
+               <note place="margin">4. <hi>Ability.</hi>
+               </note>The fourth Thing requiſite in a Magiſtrate is ability. A Magiſtrate muſt be not only a man of piety, but a man of parts, quick-ſighted uf a deep apprehenſion, knowing the laws exactly; becauſe if he be not, he will ſometime or other condemn the innocent, and juſtifie the wicked. And the rather every Judge ought to be able,<note place="margin">
+                  <hi>There are they that can make</hi> Candida de nigris, &amp; de candentibus alba.</note> in regard he hath to deal with men that can draw a fair Glove over a foul hand; blanch over a bad cauſe with ſpecious pretences, as <hi>Ziba</hi> againſt <hi>Mephiboſheth.</hi>
+            </p>
+            <p>I honour the Profeſſion of the law, and I wiſh that ſome men did not diſhonour their profeſſion, who indeed value their ſubſtance above their Conſciences, not believing that of the father, <hi>In die judicii plus valebit conſcientia pura, quam marſupia plena.</hi>
+            </p>
+            <p>
+               <hi>Beza</hi> telleth us, that he once ſaw on a table the Pictures of four ſorts of Perſons, and their ſeveral Poſies. 1. The Courtier with this Poſie, <hi>By my ſword I defend you all.</hi> 2. The Clergy man with this Poſie, <hi>By my prayers I preſerve you all.</hi> 3. The Countrey-man with this, <hi>I feed you all.</hi> 4. The Lawyer with this, <hi>I devour you all.</hi> I requeſt Lawyers to conſider that of God to <hi>Moſes,</hi>
+               <note place="margin">Exod. 23.2.</note> 
+               <hi>Thou ſhalt not ſpeak in a cauſe to wreſt judgement;</hi> and that ſpeech of the Apoſtle, <hi>I can do nothing againſt the truth,</hi>
+               <note place="margin">2 Cor. 13.8.</note> 
+               <hi>but for the truth.</hi> But I have digreſt too far already.</p>
+            <p>Secondly, If ye would fit your ſelves for death, live
+<pb n="23" facs="tcp:118821:15"/> among men exemplarily. You that muſt die ſhortly,<note place="margin">Live among men exem<g ref="char:EOLhyphen"/>plarily. Auguſt.</note> had need to live ſtrictly. Muſt you ere long fall, then whilſt you ſtand be holy to admiration, to imitation. <hi>Nihil ſic revocat à peccatis ſicut frequens meditatio mortis.</hi> Some ſay the ſtroaking of the belly with the hand of a dead man, will cure the Tympany; I am ſure the thoughts of death ſeri<g ref="char:EOLhyphen"/>ouſly laid to the heart are a good Medicine for an evil heart.</p>
+            <p>Nothing in the War will ſo much dead the Cannon, as a mound of Earth: The conſideration that ye ſhall be turned into Earth, ſhould dead the Cannons of temptation which Satan ſhoots againſt yoir ſouls.<note place="margin">1 Pet. 2.11. <hi>Plut.</hi>
+               </note> 
+               <hi>As pilgrims and ſtrangers abſtain from fleſhly luſts which war againſt the ſoul. Lycurgus</hi> made the firſt law that the dead ſhould be buried about the temples, intimating thereby that they which are dying ſhould be very religious.<note place="margin">Nihil facit mortem ma<g ref="char:EOLhyphen"/>lam, niſi ma<g ref="char:EOLhyphen"/>lum quod prae<g ref="char:EOLhyphen"/>cedit, vel ſe<g ref="char:EOLhyphen"/>quitur.</note> Nothing maketh death evil but the evil that goeth before it; for without that no evil could follow after it. I have read of one that gave a Ring with a deaths head to a young Ruffan, upon this condition, that he ſhould meditate on it one hour every day for ſeven days together, which he did, and through the help of God, it wrought a bleſſed change in him. Take a turn or two daily in <hi>Golgotha,</hi> walk often among the Tombs; ponder frequently your own frailty, it may much quicken you to walk exemplarily.</p>
+            <p>Your high places call for holy practices. Its eſteemed one of King <hi>Alphonſus</hi> his ſayings, That a great man can<g ref="char:EOLhyphen"/>not commit a little ſin. I muſt tell you,<note place="margin">As <hi>Ceſar</hi> ſaid, That <hi>Ceſar</hi>'s wife ſhould be without all ſuſpition of fault.</note> ye have many fol<g ref="char:EOLhyphen"/>lowing you either to Heaven or Hell, in the narrow or broad way; ye had need to chooſe a right path. Great mens vices are as ſeldom unaccompanied as their perſons. <hi>Dives</hi> was a great man and a bad pattern, and he had many brethren following him to the place of torment.<note place="margin">Vivitur exem<g ref="char:EOLhyphen"/>plis potius quàm legibus.</note> M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n are led more by the eye then by the ear, and follow rather the doings of Magiſtrates then the ſayings of Miniſters;
+<q>
+                  <l>—<note n="*" place="margin">Claudian.</note> Componitur orbis</l>
+                  <l>Regis ad exemplum; nec ſit inflectere ſenſus</l>
+                  <l>Humanos edicta valent, quàm vita regeniûm.</l>
+                  <pb n="22" facs="tcp:118821:16"/>
+                  <l>
+                     <hi>Sin indeed commeth in at firſt by propagation,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Many ſay to ſuch as</hi> Tiberi<g ref="char:EOLhyphen"/>us <hi>to</hi> Juſtinus, Si tu volueris ego ſum, Si tu non vis ego non ſum.</note>
+                     <hi>but is much encreaſed by imitation.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Ye are the heads of the people, <hi>Numb.</hi> 7.2. <hi>Mich.</hi> 3.11. If the head be giddy, the body muſt needs reel. Ill hu<g ref="char:EOLhyphen"/>mours from the head deſtroy and conſume the vitals in the body.</p>
+            <p>
+               <note place="margin">Iſa. 49.23.</note>Ye are <hi>the Nurſes of the people;</hi> and our Naturaliſts ob<g ref="char:EOLhyphen"/>ſerve, that what diſeaſe Nurſts have, the Children will par<g ref="char:EOLhyphen"/>take of.<note place="margin">Joſh. 24.15. It is a great praiſe that <hi>Melancthon</hi> a<g ref="char:EOLhyphen"/>ſcribeth to <hi>George Prince</hi> of <hi>Anhalt,</hi> His Bed-chamber ſaith he, was <hi>Academia, cu<g ref="char:EOLhyphen"/>ria tenplum.</hi> And <hi>Xenophon</hi> of <hi>Cyrus,</hi> that a man might winke and chooſe among his Courtiers he could not miſſe of a good man. 3. Walk hum<g ref="char:EOLhyphen"/>bly with God.</note> Now how will it gall your conſciences when ye come to die, if ye have been ringleaders in iniquity, and not patterns of piety; believe it ringleaders in a rebellion will be moſt ſeverely puniſhed; and with thoſe whom ye have made wicked without repentance, ye will be made eter<g ref="char:EOLhyphen"/>nally woful.</p>
+            <p>Take up the practice of dying <hi>Joſhua,</hi> who was going the way of all the Earth, <hi>I and my houſe will ſerve the Lord.</hi>
+            </p>
+            <p>
+               <hi>Theodoſius</hi> the Emperour being asked how a Prince might promote good abroad, anſwered, <hi>By ordering all well at home.</hi> If ye cannot rule your family well, ye are unfit to rule Cities and Counties. Let me requeſt you to follow <hi>David</hi>'s pattern, <hi>I will walk in the midſt of my houſe with a perfect heart until thou come unto me,</hi> (Pſal. 101.2. or <hi>O when wilt thou come unto me</hi>) leſt when ye come to die, ye have cauſe to cry out as ſhe did, <hi>They made me keeper of others vineyards, but mine own vineyard have I not kept,</hi> Cant. 1.6.</p>
+            <p>Thirdly, As your frailty calleth upon you to be faithful in your places, holy in your practices; ſo likewiſe in the third place to walk humbly with God. I would have others to have high thoughts of you, becauſe <hi>Ye are gods;</hi> but I deſire you to have low thoughts of your ſelves, becauſe <hi>ye muſt die like men.</hi>
+               <note place="margin">A Magiſtrate ſhould be like a ſtar or ſpire-ſteeple, the higher he is, the leſſer he ſhould ſeem to be.</note> Pride as one obſerveth is the ſhirt of the ſoul, put on firſt, and put off laſt: it is a weed that will grow in the beſt ſoil; but men that are higheſt in place, are uſually higheſt in ſpirit. Its rare to ſee a man great in others eyes and little in his own: Honour is often the ſtinking breath of the vulgar, which being blown into the bladder of a graceleſs heart, cauſeth it to ſwell; But here is a Pin in the
+<pb n="23" facs="tcp:118821:16"/> Text to prick this bladder and take down its ſwelling. Did you but ſpiritually conſider the brittleneſſe of your bodies, it would abate the ſwelling of your ſpirits. I ſhould think the evil diſpoſition of your ſouls, and the frail condi<g ref="char:EOLhyphen"/>tion of your bodies ſhould keep you low, while ye live.</p>
+            <p>Alas! notwithſtanding all your powers, places or prefer<g ref="char:EOLhyphen"/>m nts, what are ye, but clods of clay, a little refined earth, moving ſlime, enlivened duſt, breathing aſhes? Some Naturaliſts obſerve of Bees that when they riſe and buz on high, if you throw duſt upon them, they will houſe and be quiet. When your thoughts are lifted up on high becauſe of thoſe places in which God hath ſet you, I pray caſt ſome duſt on thoſe thoughts, rememember ye ſhall be laid as low as the worms are. <hi>Abraham</hi> was a Prince, a great man, but how much did this thought humble him;<note place="margin">Gen. 18.27.</note> 
+               <hi>Lo I have under<g ref="char:EOLhyphen"/>taken to ſpeak unto the Lord who am but duſt and aſhes.</hi> I have read of <hi>Agathecles</hi> King of <hi>Sicily,</hi> that being a potters ſon, he would be always ſerved in earthen veſſels to mind him of his original.<note place="margin">There was one <hi>Willigis</hi> B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhop of <hi>Ments,</hi> who being ſon to a Wheelwright cauſed wheels to be hanged on the walls up and down his Pallace with theſe words writ<g ref="char:EOLhyphen"/>ten over them, <hi>Willigis, Willi<g ref="char:EOLhyphen"/>gis, Recole unde veneris.</hi> 4. Act zeal<g ref="char:EOLhyphen"/>ouſly for God.</note> Some write of a Bird ſo light and feathery that it is forced to flie with a ſtone in its mouth leſt the wind ſhould carry it away. The truth is, men that are high in place, are apt to be carried away with the wind of high min<g ref="char:EOLhyphen"/>dedneſſe: they had need therefore to have earth in their minds, I mean their frailty, and it may prove through the bleſſing of Heaven a ſingular preſervative.</p>
+            <p>O that you who are Judges and Juſtices, would but take the length of your bodies in the duſt, where ye muſt ere long lie, and believe that a little dſtemper will kill you, a little ſheet will wind you, a little grave hold you, little worms feed on you, and a little time quite conſume you: could ye then be great in your own eyes? <hi>Remember that your remembrance is like unto duſt, and your bodies are bodies of clay,</hi> Job. 13.12.</p>
+            <p>Fourthly, Muſt ye die and would ye prepare for it, then be active for God whilſt ye live; the ſerious thoughts of death in your hearts will put life into your hands. This life is all your day of working, death is the night of reſting;<note n="*" place="margin">Rev. 14.13.</note> 
+               <hi>the dead reſt from their labours. When</hi>
+               <note n="‖" place="margin">Pſal. 104.23.</note> 
+               <hi>the ſun of mans life ariſeth he goeth forth unto his labour until the evening of death.</hi>
+               <pb n="24" facs="tcp:118821:17"/> The heavenly bodies are ever in motion, though the earth ſtand ſtill; and the more pure any being is, the more active it is. <hi>Deus eſt actus purus.</hi> Fire is the moſt active of crea<g ref="char:EOLhyphen"/>tures without life; Angels of creatures that have life. O ſhew your ſelves to be as Angels amongſt men, by walking humbly with God; the Angels vail their faces in his pre<g ref="char:EOLhyphen"/>ſence; by working diligently for God, Angels are ever employed in the ſervice of God.</p>
+            <p>Work induſtriouſly in your general callings, as Chri<g ref="char:EOLhyphen"/>ſtians;<note place="margin">John 12.35.</note> yet a little while the light is with you, walk while ye have the light. The task of Chriſtianity is great, the time ye have is little; the time ye have loſt is much: O now beſtir your ſelves in redeeming time, and improving every opportunity to the beſt advantage of your ſouls. How fervently ſhould ye pray? as not knowing but that every prayer ye pray may be your laſt prayer; that ye may never have another ſeaſon to beg mercy in for your ſouls, for your relations, for the afflicted members of the Lord Jeſus. How attentively, and how hungerly ſhould ye hear the word of life, even as for life? How carefully, and how conſcientiouſly ſhould ye keep the Sabbath, conſidering ye may be very neer your eternal Sabbath? How ſedulouſly ſhould ye hang on every Ordinance, as Bees on Flowers, never leaving them till ye have ſucked ſome honey,<note place="margin">Praecipita tem<g ref="char:EOLhyphen"/>pus; mors atra impendet agen<g ref="char:EOLhyphen"/>ti.</note> ſome ſweetneſs from them? Ponder this, there can be but a few days, and ye ſhall never pray more, never hear more, never ſanctifie Lord's day more, never enjoy Ordinances more; I that am now Preaching, and ye that are now hearing, muſt ſhortly be carried on mens backs, and laid in the belly of the earth; and can we do too much in ſo little time, eſpecially in a work of ſuch infinite weight!</p>
+            <p>
+               <note place="margin">Rev. 12.12.</note>The Divel is the more buſie becauſe his time is ſhort, and therefore ſtriveth in a quick diſpatch of the works of dark<g ref="char:EOLhyphen"/>neſſe, to out-wit the children of light. The time is ſhort, therefore be indifferent about earth,<note place="margin">1 Cor. 7.29. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 1 <hi>Cor.</hi> 7.29. the time is ſhort, therefore be diligent about Heaven; the word is, <hi>The time is rolled up;</hi> it's a Metaphor from Mariners; the Sails that were ſpread before, when they draw nigh to the Haven, are then rolled up: You know not how ſoon the
+<pb n="25" facs="tcp:118821:17"/> ſails of your lives may be rolled up; how nigh ye are to your eternal haven; O beſtir your ſelves carefully; ply the Oars diligently, that the veſſels of your ſouls may not miſcarry eternally. <hi>Whatſoever thine hand findeth to do,</hi>
+               <note place="margin">Eccleſ. 9.10.</note> 
+               <hi>do it with all thy might, for there is no work, nor knowledge, nor device in the grave whither thou goeſt.</hi>
+            </p>
+            <p>Work induſtriouſly in your particular callings, as Ma<g ref="char:EOLhyphen"/>giſtrates, becauſe ye muſt die. Be active for the puniſh<g ref="char:EOLhyphen"/>ment of iniquity; for the encouragement of piety. Let the practiſe of Chriſt be your pattern;<note place="margin">John 9.4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 Cor. 8.9. Phil. 2.6.</note> 
+               <hi>I muſt work the work of God while it is day, the night cometh when no man can work.</hi> To work a work noteth the ſtrong intention of his ſpirit about the work: Chriſt though he was rich, and for great<g ref="char:EOLhyphen"/>neſſe the Lord's equall, yet did not (as many rich and great men do) play his work; he did ſweat at work, yea he ſweat drops, nay clods of blood.<note place="margin">Luke 22.44.</note> Now be ye followers of Chriſt as dear children,<note place="margin">Magnarum re<g ref="char:EOLhyphen"/>rum tarda mo<g ref="char:EOLhyphen"/>limina.</note> and think you can never do enough for that Saviour which hath done ſo much for your ſouls. How ſad is it, that great bodies ſhould move ſo ſlowly?</p>
+            <p>How many talents hath God committed to you?<note place="margin">Nothing more ſads the heart when a man comes to die, then his neglect of ſuch opportunities which God's providence or his own place have put into his hands of doing or receiving good; nor is there a ſharper corroſive then the refle<g ref="char:EOLhyphen"/>ction upon thoſe days that have paſſed over him, <hi>Male, aliud, nihil agentem. Vines Eſſ. Fun.</hi> p. 19. Phil. 2.7.</note> when others have one, ye have ten: A talent is any thing that a man is betruſted with to glorifie God; and it's called a talent, becauſe of the great price that is in the leaſt oppor<g ref="char:EOLhyphen"/>tunity to honour God: Ye have many ſuch talents; ye may hinder much wickedneſſe, further much holineſſe; be a great terror to evil doers, a great praiſe to them that do well; let it not be ſaid of you, that ye do the work of the Lord negligently.</p>
+            <p>Did not Chriſt humble himſelf for you?<note place="margin">Magiſtrates are <hi>cuſtodes utri<g ref="char:EOLhyphen"/>uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tabulae. Socrates</hi> was adjudged to death by the <hi>Athenians</hi> for a diſhonorable ſpeech concer<g ref="char:EOLhyphen"/>ning their gods.</note> and ſhall you think it below you to ſearch Alehouſes, thoſe head quarters of Hell; to enquire into mens obſervation of God's day; to uſe all means whereby ye may know mens prophanation of God's name, by helliſh oathes, and curſed blaſphemies, and abuſe of God's creatures by drunkenneſſe, that ſo they may be ſeverely puniſhed? Alas, a few dayes will come, and the beſt of you ſhall have no ſuch opportunity to diſcover your
+<pb n="26" facs="tcp:118821:18"/> love to God for his abundant mercies;<note place="margin">
+                  <hi>Plut. in vit. Nici. Vid Lev.</hi> 24.16. Job 31.26, 27, 28.</note> your thankfulneſs to Chriſt for his precious merits: do therefore now act to the utmoſt of your power for the glory of God, and your Saviour.</p>
+            <p>Be not like the talleſt trees, which bring forth either no fruit,<note place="margin">Matth. 25.26, 30.</note> or that which is only for Swine. Remember God puts no difference betwixt <hi>nequaquam &amp; nequam,</hi> an idle and an evil ſervant; the unprofitable ſervant is for utter darkneſſe.</p>
+            <p>Do but conſider the time of your departure may be at hand, and ſhould not this reſolution be in your hearts, to act vigorouſly and ſtrenuouſly for God? The neerer ye are to your centre, the faſter ye ſhould move: The ſetting Sun ſhineth moſt brightly: The dying Swan ſings moſt ſweetly: The approaches of a Needle are ſo much the more quick, by how much it draweth neerer to the Loadſtone: The Rivers run with a ſtronger ſtream,<note place="margin">Oportet impe<g ref="char:EOLhyphen"/>ratorem ſtan<g ref="char:EOLhyphen"/>tem mori. Veſpa.</note> when they are about to empty themſelves into the Ocean. Ye are neerer death then ever, be quicker in your motions for God then ever, that it may be ſaid of every one of you, how young ſoever ye may die, as one ſaid of <hi>Juel, Diu vixit &amp; ſi non diu fuit.</hi>
+            </p>
+            <p>
+               <note place="margin">5. Mind the power of godlineſſe.</note>Fifthly, Muſt ye die, and would ye prepare for death? labour to find ſome inward work of grace wrought upon your hearts; be not contented with forms, but mind the power of godlineſs. A man may live by a form, but he cannot die by a form: An heart not ballanced with grace, may hold out in the calm of life; but when the boiſterous winds of ſickneſſe blow, and the ſtorm of death cometh, it will ſuffer ſhipwrack: When death cometh, when that damp ariſeth, the Candle of Profeſſion ſeparated from the Power of Religion, will firſt burn blew, and then go out: The bellows of death will blow the ſpark of ſincerity into a flame, and the blaze of hypocriſie into nothing. O there<g ref="char:EOLhyphen"/>fore get that ſaying of our Saviour written on your hearts; <hi>Verily,</hi>
+               <note place="margin">John 3.3.</note> 
+               <hi>verily, I ſay unto you, except a man be born again, he can never ſee the Kingdom of God.</hi>
+               <note place="margin">Pious Mr. <hi>Strong</hi> on <hi>Heb.</hi> 12.14. p. 39. <hi>vid.</hi>
+               </note> A worthy Divine, now in Heaven, obſerveth four things from this verſe: 1: The manner of the aſſertion, <hi>Verily, verily.</hi> 2. The matter aſſerted, <hi>except a man be born again; Non unius partis corre<g ref="char:EOLhyphen"/>ctionem,
+<pb n="27" facs="tcp:118821:18"/> ſed totius naturae renovationem deſignat. Calvin.</hi>
+               <note place="margin">He that is born but once, dieth twice. He that is born twice, dieth but once.</note> 3. The univerſality of the aſſertion, it is equivalent to an univerſal propoſition, though he be a man civil in his con<g ref="char:EOLhyphen"/>verſation, a Saint in his generation, yet he muſt be born again. 4. The neceſſity of it, without regeneration no ſalvation; he cannot ſee the Kingdom of God.</p>
+            <p>You know what the Phariſees were, how ſtrict in their lives,<note n="a" place="margin">Phil 3.6.</note> according to the Law blameleſſe; how abundant in<note n="b" place="margin">Matth. 23.14.</note> duty; they made long<note n="c" place="margin">Matth 6.</note> prayers; gave much<note n="d" place="margin">Luke 18.12.</note> alms; faſted twice a<note n="e" place="margin">Matth. 23.15.</note> week; compaſt Sea and Land to make Proſelytes: Nay, they were ſo holy that the Jews would ſpeak commonly, That if but two in the world went to Heaven, the one ſhould be a Scribe, and the other a Phariſee: Yet our Saviour ſpeaketh expreſly;<note place="margin">Matth. 5.20.</note> 
+               <hi>Except your righteouſneſs exceed the righteouſneſs of the Scribes and Phariſees, ye ſhall in no caſe enter into the Kingdom of God.</hi> Phariſaical ho<g ref="char:EOLhyphen"/>lineſſe will never evidence your right to eternal happineſſe.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Duo negativae apud Graecos vehementius negant.</note> He that conſidereth how great their priveledges, how ſeemingly gracious their practices were, will at firſt wonder why Chriſt ſhould ſet a double bolt on Heavens gate to keep them out: But their chief falling was in this which I am exhorting you to, namely, in the want of the power of godlineſſe; their actions (to the eye of man) good, but their affections were bad; their practices did not pro<g ref="char:EOLhyphen"/>ceed from renewed and gracious principles: Whatſoever civility was without in the life, there was no real ſanctity within in the heart.</p>
+            <p>You that are Magiſtrates may probably be free from ſcandalous enormities; none can taxe you, it may be, with ſwearing, drunkenneſſe, whoredome, or the like; nay, I hope you go farther, that ye perform duty in ſecret by your ſelves in private with your wives and children, in publike with the Congregation, that ye inſtruct your families in the things of God, and be earneſt with all under your po<g ref="char:EOLhyphen"/>wer to mind their eternall good; theſe things are commen<g ref="char:EOLhyphen"/>dable, and the Lord increaſe the number of ſuch Magiſtrates; but I muſt tell you that though this reformation in your lives be good, yet without an alteration and change in your hearts, it is not ſufficient. I may ſay to you as Chriſt to the
+<pb n="28" facs="tcp:118821:19"/> young, <hi>One thing lackeſt thou yet.</hi> As the rude <hi>Satyre</hi> in <hi>Plutarch,</hi> who ſtrove to make a dead man ſtand upright, had ſo much wit as to ſay, <hi>Deeſt aliquid intus;</hi> There wants ſomething within. So I ſay to you, if ye go no further, there is ſpiritual life, the ſeed of God, the divine nature, the new creation, the power of godlineſſe wanting within; without this all other things will come to nothing. <hi>Alchimy</hi> Gold may ſhine brighter then true Gold; but as ſome ob<g ref="char:EOLhyphen"/>ſerve, it will neither cheer the heart as a Cordial, nor paſſe the ſeventh five: A dram of true grace will be of more worth to you when ye come to die, then a Sea of gifts. Heaven is the Father's houſe, and none can come thither but his own children, ſuch as are born of God.</p>
+            <p>
+               <note place="margin">6. Apply the death of the Saviour to your own ſouls.</note>Laſtly, If ye muſt die, to prepare your ſelves for death make ſure of an intereſt in Chriſt, in the death of the Lord Jeſus: There is no ſhroud to this, namely, to be wrapt in the winding ſheet of Chriſt's righteouſneſſe.</p>
+            <p>I would requeſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou to diſcharge your truſts ſo faithfully, to work for Heaven ſo induſtriouſly, to walk with God ſo humbly, to live among men ſo exactly and exemplarily, to mind the renovation of your natures ſo carefully, out of thankfulneſs to God for his Son, out of affection to him that hath loved you, and waſhed you in his blood, out of a deſire to cleer up your title to the Covenant of grace, as if ye were to be juſtified by your works, to purchaſe Heaven by your holineſs;<note place="margin">Iſa. 64.6.</note> but when ye have done all, throw them away as filthy rags, as a menſtruous cloth, as dung and droſſe in compariſon of the excellency of the knowledge of Jeſus Chriſt.<note place="margin">Phil. 3.8, 9.</note>
+            </p>
+            <p>He that is to incounter with this grand enemy death, had need to have Armour of proof:<note place="margin">Joh. 11.25, 26.</note> And as <hi>David</hi> ſaid of <hi>Goliah</hi>'s ſword, ſo I of this death of Chriſt; There is no weapon like it. That which makes a man die with true courage, and ſtep with an holy boldneſſe unto the grave, is to remember that Chriſt died not only before him, but for him; and hath conquered and vanquiſhed the King of terrors upon his own dunghil.</p>
+            <p>I deſire, ſaith the Apoſtle, to know nothing but Chriſt, and him crucified: All the mercies that believers enjoy,
+<pb n="29" facs="tcp:118821:19"/> come ſtreaming to them in the blood of Chriſt; though there be much attribued to his interceſſion,<note n="*" place="margin">
+                  <hi>Calvin</hi> obſer<g ref="char:EOLhyphen"/>veth on 1 Joh. 2.1. that Chriſts inter<g ref="char:EOLhyphen"/>ceſſion is no<g ref="char:EOLhyphen"/>thing elſe but a perpetual application of his death. Chriſt intercedeth by ſhewing to his Father his wounds in his hands and ſide, <hi>quot vulnera, tot ora,</hi> to plead for ſinners.</note> yet that like the King's ſtamp on ſilver, addeth no real value to it, only maketh it currant. By his death<note n="a" place="margin">Eph. 1.7.</note> ſin is pardoned; God's juſtice ſatisfied, his wrath<note n="c" place="margin">Col. 2.14, 15. Heb 2.14.</note> appeaſed; Satan vanquiſhed;<note n="d" place="margin">Gal. 3.13.</note> the curſe of the Law endured;<note n="e" place="margin">Tit. 2.14. Heb. 9.14.</note> grace purchaſed for the Saints here,<note n="f" place="margin">John 14.2. 1 Cor. 15.55, 56.</note> and an eternal weight of glory hereafter.</p>
+            <note n="b" place="margin">Eph. 1.6, 5, 2.</note>
+            <p>The whole Ring of Chriſt's Mediatorſhip ſurely takes its value, not only from the Diamond of his Divinity, but alſo from the Paſſion of his Humanity. Its out of the carkaſſe of this Lion of the Tribe of <hi>Judah,</hi> that the true <hi>Sampſons</hi> get ſo much honey of comfort. Thence it is that the Apo<g ref="char:EOLhyphen"/>ſtle rings ſuch a challenge in the ears of death, <hi>O death, where is thy ſting? O grave, where is thy victory?</hi>
+               <note place="margin">Vide <hi>Mr.</hi> Her<g ref="char:EOLhyphen"/>berts <hi>temple-dialogue be<g ref="char:EOLhyphen"/>tween the Chriſtian and death, p. 164.</hi> Lenietur mor<g ref="char:EOLhyphen"/>tis damnum; non enim eſt invicta ut an<g ref="char:EOLhyphen"/>tea, cum Chri<g ref="char:EOLhyphen"/>ſtus illam ſu<g ref="char:EOLhyphen"/>peravit, ac in ſuo certamine crucis, faeliciſ<g ref="char:EOLhyphen"/>ſime vicit. Pet. Martyr. loc. comm. de Luct. pro mort. <hi>Gen. 46.30.</hi>
+               </note> 
+               <hi>The ſting of death is ſin; But thanks be to God, which hath given us the victory, through our Lord Jeſus Chriſt.</hi> The Apoſtle ſpeaketh as alluding to a ſouldier that having fought with, and diſ<g ref="char:EOLhyphen"/>armed his adverſary, triumpheth, O Sir! where is your ſword wherewith you threatned ſo bitterly? where is your piſtol with which you would wound me mortally? O death! where is thy ſting with which thou threatnedſt to make me ſmart eternally? O grave! where is that victory of which thou boaſteſt ſo exceedingly? Thanks be to God that hath given us the victory through Chriſt. Chriſt died not only in <hi>bonum fidelium ſed in loco eorum,</hi> not only for their good, but in their ſtead; now death like a Bee left its ſting, and loſt its ſting in Chriſt, that now it may make a noiſe, but cannot ſting the believer.</p>
+            <p>Surely If <hi>Jacob</hi> could ſay when he had ſeen <hi>Joſeph, Now let me die, ſince I have ſeen thy face:</hi> The ſoul that with the eye of faith hath ſeen this ſon of <hi>Joſeph,</hi> may with greater boldneſs dare death, and encounter the grave. How ſweetly doth old <hi>Simeon</hi> ſing out his ſouls <hi>requiem,</hi> having (ſaith one) laid in his heart that holy Child Jeſus,<note place="margin">Luke 2.29, 30. The ſoules ſolace.</note> whom he lapt in his armes, ſings his <hi>Nunc dimittas;</hi> I fear no ſin, I dread no death: I have lived enough, I have my life; I have longed
+<pb n="30" facs="tcp:118821:20"/> enough, I have my love; I have ſeen enough, I have my light; I have ſerved enough, I have my ſaint; I have ſorrowed enough, I have my joy: Sweet babe, let this Pſalm ſerve for a lullaby to thee, and for a Funeral to me. Oh do thou ſleep in my armes, and let me ſleep in thy peace.</p>
+            <p>
+               <note place="margin">Valde proteſt atus ſum me nolle ſic a Deo ſatiari. Luther. Melch. Adam in vit. Luth.</note>Be not contented with any gift from God beneath his ſon. Say as <hi>Abraham, Lord, what wilt thou give me, if I go Chriſtleſſe.</hi> Lord, thou haſt given a plentiful eſtate, comfor<g ref="char:EOLhyphen"/>table kinred, a goodly dwelling, lovely children, much ho<g ref="char:EOLhyphen"/>nour from men, many lawful pleaſures and delights: But Ah Lord; what are theſe to a Chriſt? Give me Chriſt or I die: yea Lord, give me Chriſt or I die eternally.</p>
+            <p>View thy Saviour on the Croſſe, fighting with this laſt enemy, for thy ſins, for thy ſoul. See his arms ſtretched out to embrace thee, his head hanging down to kiſſe thee, his feet nailed that he cannot run from thee, his ſide opened to ſhew thee how nigh thou lieſt to his heart; and take him down with the arms of faith, and lay him in the ſepulchre of thy ſoul: O be not faithleſſe but believing, Cry out, My Lord and my God.</p>
+            <p>I tell thee couldſt thou heap up mountains of prayers? couldſt thou pray ſo frequently that thy heart even bled within thee, and ſo frequently that thy knees were as hard as Camels knees, as is reported of <hi>James</hi> the brother of our Lord; couldſt thou weep (as ſome ſpeak of <hi>Mary Magdalen</hi> in <hi>Balba</hi>) thirty years together; couldſt thou faſt as many Millions of years as there have been moments ſince the Crea<g ref="char:EOLhyphen"/>tion: yet without an intereſt in this death of Chriſt it would all be of no worth, of no value, to no purpoſe at all.</p>
+            <p>
+               <note place="margin">Motives.</note>I ſhall in the next place annex ſome motives, that the former particulars may have the deeper impreſſion on your affections.</p>
+            <p n="1">
+               <note place="margin">1. Other things are un<g ref="char:EOLhyphen"/>profitable. Honour is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>An opinion.</hi> Matth. 4.8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. A <hi>fancy.</hi>
+               </note>1. Conſider how vain and unprofitable all other things wil be to you when ye fall. Do but ponder that word, <hi>fall,</hi> when ye die.</p>
+            <p n="1">1. Ye fall from the higheſt pinacle of honour and repu<g ref="char:EOLhyphen"/>tation. The place of Magiſtracy which knoweth you now, will know you no more. One of the Ancients ſtanding by <hi>Ceſar</hi>'s tomb, cryeth out, <hi>
+                  <g ref="char:V">Ʋ</g>bi nunc pulchritudo</hi> Ceſars? <hi>quo
+<pb n="31" facs="tcp:118821:20"/> abiit magnificentia ejus?</hi> Where is now the beauty?<note place="margin">
+                  <p>Acts 25.23. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, A ma<g ref="char:EOLhyphen"/>thematical figure, a meer notion. 1 Cor. 7.31.</p>
+                  <p>One was ap<g ref="char:EOLhyphen"/>pointed at the Popes in<g ref="char:EOLhyphen"/>thronization, to burn a wad of Straw, and running be<g ref="char:EOLhyphen"/>fore the Pope, to cry out, <hi>Sic tranſit gloria mundi.</hi> Gen. 25.32.</p>
+               </note> what is become of the magnificence? where are the Armies now? where the Honours, the Triumphs, the Trophies of <hi>Ceſar?</hi> All was gone, when <hi>Ceſar</hi> was gone. Your honours, and your worſhips, your power and your places all die with you, if not before you. Titles of honour gliſter like Glow<g ref="char:EOLhyphen"/>worms in the dark night of this life: but in the day of death, they all vaniſh and diſappear. Its probable ſome of you, may be nobly born, finely bred, highly advanced; but when ye come to die, ye may ſay of all theſe as <hi>Eſau</hi> of his birthright, <hi>Behold, I am at the point to die: and what profit ſhall this birthright do to me?</hi> What good will my honour, my credit do me? Chriſt will do me good when I come to die; ſo will the power of godlineſs: but none of my places or preferments will.</p>
+            <p n="2">2. Ye fall from your greateſt treaſures and poſſeſſions;<note place="margin">1 Tim. 6.7. All the <hi>Cains</hi> of <hi>Adam</hi> are <hi>Abel</hi>'s; all the poſſeſſions of man are va<g ref="char:EOLhyphen"/>nity. Mr. <hi>Broughton.</hi>
+               </note> As ye brought nothing into the world, ſo it's certain ye ſhall carry nothing out of the world. <hi>Saladin</hi> the mighty Monarch of the Eaſt is gone, and hath carried no more along with him then ye ſee, (<hi>i. e.</hi> a ſhirt hung up for that purpoſe) ſaid the Prieſt that went before the Bier.</p>
+            <p>The holy Ghoſt obſerveth well, that rich men are by their wealth<note n="a" place="margin">1 Tim. 6.17.</note> rich only in this world, and they are<note n="b" place="margin">1 John 3.17.</note> this worlds goods. For as the Martyr ſaid, I am going to the place where money beareth no maſtery; In another world Gold and Silver are not currant coyn.<note place="margin">Holy Mr. <hi>Bur<g ref="char:EOLhyphen"/>roughs.</hi>
+               </note> A Divine (now with Chriſt) giveth me two ſtories of dying rich men; The one is of a Miſer, that being to die, called for his bags, and hugging them, crieth out, Muſt I leave you, Muſt I leave you? The other is of one that being on his death-bed, called for ſome pieces of Gold, and layed them to his heart; but pre<g ref="char:EOLhyphen"/>ſently ſaid, I find them cold; Take them away; They will not do, They will not do. The unſearchable riches that are in Chriſt will do; His warm blood applied by faith, will not be cold to thy heart.</p>
+            <p n="3">3. Ye fall from all your friends and relations; when ye die, they that were neer and dear to you will leave you. Ye may when ye lie on your death beds look on your left hands, and there is none to help you; on your right hands,
+<pb n="32" facs="tcp:118821:21"/> and there is none to pity you; on the one ſide of the bed, thy neighbours may be ſighing and ſobbing; on the other ſide thy wife and children may be wringing their hands, and renting their hearts;<note n="c" place="margin">Pſal 142.4, 5.</note> but if thou canſt not then with <hi>David,</hi> look up and ſay, <hi>Lord, thou art my refuge:</hi> O what a ſighing, ſobbing, weeping condition art thou in indeed!</p>
+            <p>O what a comforting cordial will it be to a dying perſon, to be able in uprightneſſe of heart to ſay with<note n="d" place="margin">Pſal. 73.26. It was an excellent ſay<g ref="char:EOLhyphen"/>ing of a wor<g ref="char:EOLhyphen"/>thy perſon to a great Peer of this Realm: (that ſhewed him his houſes goods, lands, honours, plea<g ref="char:EOLhyphen"/>ſures, and the like) My Lord, you had need to make ſure of Heaven; otherwiſe your Lordſhip will be a very great loſer when you die.</note> 
+               <hi>Aſaph, My fleſh and my heart fail me; but God is the ſtrength of my heart, and my portion for ever.</hi> When news cometh that ye muſt die, can the ableſt Phyſitian in the world, preſcribe or provide ſuch a cordial as good <hi>Hezekiah</hi> had? He turned to the wall and weepeth, ſaying, <hi>Lord, thou knoweſt I have walked before thee with a perfect heart.</hi>
+            </p>
+            <p>Believe me, Sirs, your honours, treaſures, and relations, will ſhake hands with you at death; like leaves in Autumn, fall from you; like <hi>Abſalom</hi>'s Mule, fail you even in your greateſt extremity. Then <hi>Dives</hi> and his diſhes; <hi>Herod</hi> and his Harlot;<note n="e" place="margin">Iſa. 38.2, 3.</note> 
+               <hi>Baltaſar</hi> and his bowls; <hi>Achan</hi> and his wedges; <hi>Balaam</hi> and his wages; the ambitious man, and his ho<g ref="char:EOLhyphen"/>nours; voluptuous man, and his pleaſures; covetous man and treaſures muſt part, and that for ever, ever. Doth it not concern you then, to chooſe that part that ſhall never be parted with,<note place="margin">
+                  <p n="2">2. Hereby your names will be highly honorable. Prov. 3.13, 15.</p>
+                  <p>
+                     <hi>Salvian</hi> complained that in his time men thought Reli<g ref="char:EOLhyphen"/>gion made Noble men vile; when indeed, ſaith he, it maketh vile men Noble. Job 1.8. <hi>Car. in loc.</hi>
+                  </p>
+               </note> which ſhall never be taken from you?</p>
+            <p n="2">2. By this means you names may be highly honoured; true glory is entailed on piety. The Heathen would go through the Temple of Vertue to the Temple of Honour. <hi>Happy is the man that findeth wiſedom; length of dayes is in her right hand, and in her left hand riches and honour.</hi>
+            </p>
+            <p>I do not ſay that wicked men ſhall commend you for godlineſſe; no, their good word were a blot to your names. What evill have I done, ſaid the Philoſopher, that this vicious wretch ſpeaketh well of me? Yet godlineſſe will make you like ſtatues of Gold, which the polluted breath of ungodly ones cannot ſtain; the more the dirty feet of men rub on a figure graven in braſſe, the more luſtre they give it: But God and godly men will honour you for ho<g ref="char:EOLhyphen"/>lineſſe. What doth God ſay of a living Saint? <hi>Haſt thou not conſidered my ſervant Job? i. e.</hi> I am ſure in thy travels
+<pb n="33" facs="tcp:118821:21"/> and wandrings about the world, thou couldſt not chooſe but take notice of <hi>Job;</hi> he is my jewel, my darling,<note place="margin">
+                  <hi>Job</hi> was a godly magi<g ref="char:EOLhyphen"/>ſtrate. Godlineſſe doth truly ennoble a per<g ref="char:EOLhyphen"/>ſon, the four Monarchs without it are reſembled to four beaſts, King <hi>Herod</hi> to a fox, <hi>Nero</hi> to a lyon, the Princes of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> to the kine of <hi>Baſhan Nam genus &amp; proavos &amp; quae non fecimus ipſi, Vix ea no<g ref="char:EOLhyphen"/>ſtra voc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Ovid.</note> a ſpe<g ref="char:EOLhyphen"/>cial man among all the ſons of men: He is ſuch a ſpectacle, as may juſtly draw all eyes, and hearts after him: When thou walkedſt to and fro, didſt thou not make a ſtand at <hi>Job</hi>'s door? I cannot but look upon him my ſelf, and con<g ref="char:EOLhyphen"/>ſider him; therefore ſurely thou haſt conſidered him. And how honourably doth God ſpeak, not only of a godly Ma<g ref="char:EOLhyphen"/>giſtrate living, but when he is dead alſo?<note n="f" place="margin">Joſh. 1.2.</note> 
+               <hi>Moſes my ſervant is dead.</hi>
+               <note n="g" place="margin">Iſa. 41.8.</note> 
+               <hi>The ſeed of Abraham my friend.</hi> So godly men will honour you if ye fear God: When your eyes are ſhut, mens mouthes will be open: And what will good men ſay of a pious judge? There was a Judge that would not ſwerve a tittle from the Law, but executed it couragiouſly, without fear, impartially without favour; who made the Malefactor to tremble with his frowns, and cheered the innocent with his ſmiles: He was one that did juſtly, loved mercy, and walked humbly with his God; of whom the world was not worthy, for he is now enjoying a weight of glory. And of a good Juſtice when dead; what a character will good men living give? There was a Juſtice that would ſecure his conſcience, whatever became of his credit; that would pleaſe God, how much ſoever he diſpleaſed men; that was not only ſtrict to puniſh, but active to find out ſwearers, drunkards, and Sabbath breakers:<note place="margin">Pious Maſter <hi>Vines</hi> at <hi>Eſſex Fu.</hi> p. 15.</note> He was one that ever counted the toleration of men in ſuch ſins, an intolerable ſin: Or if you will have it in the lan<g ref="char:EOLhyphen"/>guage of a learned Divine now in Heaven; He was a Juſtice that would ſcatter drunkards from their Ale-bench, and never underſtood the language of a Bottle or a Basket. O how gallantly, if ye act nobly for God, will theſe trumpets ſound your praiſes when ye are in the place of ſilence.</p>
+            <p>When of a wicked Magiſtrate they will ſpeak when he is dead, (as <hi>Nazianzen</hi> of <hi>Julian,</hi>
+               <note place="margin">
+                  <hi>Caligula</hi> could ſay of his fa<g ref="char:EOLhyphen"/>ther in law <hi>Marcus Sila<g ref="char:EOLhyphen"/>nus,</hi> that he was but a gol<g ref="char:EOLhyphen"/>den brute.</note> when he was ſmitten and wounded; It was to him indeed <hi>vulnus lethale,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) The ſickneſs whereby he died was (poſſibly) damnation to him, but it was ſalvation to us; we are there<g ref="char:EOLhyphen"/>by freed from his wicked pattern, and ungodly practiſes. Or as the <hi>Romans</hi> of <hi>Pompey,</hi> by a witty ſolleciſme, <hi>Miſera
+<pb n="34" facs="tcp:118821:22"/> noſtra magnus eſt,</hi> The more he was advanced, the more our miſery encreaſed. The very * Heathen can tell us of a long lived vicious man, <hi>Diu fuit, non diu vixit. Multum jactatu eſt,</hi>
+               <note place="margin">Senec. ad Paulin. cap. <hi>8.</hi>
+               </note> 
+               <hi>non multum navigavit.</hi> Believe me, the higheſt ungodly Magiſtrate when he dyeth, goeth out like a Candle that leaves a ſtinking ſent, a noyſome ſmell behind him.</p>
+            <p n="3">
+               <note place="margin">3. If ye mind godlineſs, your deaths will be truly peace<g ref="char:EOLhyphen"/>able.</note>3. Hereby your deaths will be truly peaceable. An ungodly man can never die with true peace, though he may die in much ſecurity. He may die by his own hands, and yet not with his own will.<note n="h" place="margin">Luke 12.20. Job 27.8.</note> Such a mans ſoul is taken from him, and ſnatch'd away by fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce.</p>
+            <p>Were I not by experience too too much acquainted how hard and deſperately wicked the heart of man is, I ſhould much wonder how any man ſhould die in his wits, that dyeth not in the faith of Chriſt; that their ſouls go not out of their bodies, as the Divels out of them that were poſſeſſed, renting, raging, foaming and tea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing. I am confident were the conſcience awakened, no graceleſs wretch alive can look death in the face with blood in his ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eks. It muſt needs make the ſtouteſt heart alive to quake, to look that diſtemper in the face, that at once may both kill him and damn him.</p>
+            <p>Yet we ſee by experience, that many die like Lambs, whilſt their ſouls are amongſt Lions,<note place="margin">Ariſtotle <hi>when dying ſpake thus (ſaith one)</hi> Dubius morior, que va<g ref="char:EOLhyphen"/>dam, neſcio. <hi>And</hi> Adrian <hi>more doleful<g ref="char:EOLhyphen"/>ly,</hi> Animula Vagula, blan<g ref="char:EOLhyphen"/>dula, quae nunc abibis in loca, &amp;c.</note> and they are going to the place of Dragons. We read <hi>there are no bands in the death of rich wicked men,</hi> Pſal. 73.4. And that phraſe in <hi>Job.</hi> 21.13. <hi>In a moment they go down to the grave,</hi> is gene<g ref="char:EOLhyphen"/>rally interpreted thus, They die quickly and quietly. <hi>In quiete in infernum deſcendunt,</hi> ſaith an Expoſitour, like a Lampe that goeth out of it ſelf when the Oyl faileth. So <hi>Ceſar</hi> ſaid, the day before he was ſlain, <hi>Finis vitae commo<g ref="char:EOLhyphen"/>diſſimus eſt repen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inus &amp; inopinatus.</hi> And <hi>Julian</hi> the Apoſtate ſaid, <hi>Vitam repoſcenti naturae, tanquam de bitor bonae fidei, red<g ref="char:EOLhyphen"/>diturus, exulto.</hi> But this quietneſs ariſeth or rather carnall ſecurity to them, not from any knowledge of their good eſtate, but from ignorance of their bad eſtate. <hi>A wicked mans hope is like the giving up of the Ghoſt,</hi> Job. 11.20. <hi>He breaths out his ſoul, life, and hope together.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Pſal. 33.37. Some of the Martyrs than<g ref="char:EOLhyphen"/>ked their Judges for condemning them,</hi> Senten<g ref="char:EOLhyphen"/>tiis veſtris gra<g ref="char:EOLhyphen"/>tias agimus, cum damnamur à vobis a deo abſolvimur. <hi>Tertul. Apol. c. 5.</hi> Si vis in pace mari, ſis ſervus dei.</note>The good m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n only hath true hope in his death, <hi>Prov.</hi> 14.32. I am neither aſhamed to live, nor afraid to die, ha<g ref="char:EOLhyphen"/>ving
+<pb n="35" facs="tcp:118821:22"/> a good Maſter to go to, ſaid <hi>Ambroſe.</hi> And how man<g ref="char:EOLhyphen"/>like did that feminine Martyr ſubſcribe her Confeſſion,<note n="*" place="margin">
+                  <hi>Fox</hi> Acts, vol. 2. p. 576. <hi>Extrema Chri<g ref="char:EOLhyphen"/>ſtianorum deſi<g ref="char:EOLhyphen"/>derantur etſi non exordia. Florus</hi> ſaith of the Romans, <hi>Populus Ro<g ref="char:EOLhyphen"/>ſaepe praeliis, nunquam bello victus.</hi> They were often conquered in skirmiſhes, but never in a pitcht battell. The godly may be often foyld in their lives, but ne<g ref="char:EOLhyphen"/>ver in their deaths. At that long run they are al<g ref="char:EOLhyphen"/>ways too hard for their moſt potent adver<g ref="char:EOLhyphen"/>ſaries. 4. This will make your conditions e<g ref="char:EOLhyphen"/>verlaſtingly comfortable.</note> Subſcribed by me <hi>Ann Askew,</hi> that neither wiſheth for death, nor feareth its might, but is as merry as one that is bound for Heaven. He that with the Apoſtle can ſay, <hi>I have fought a good fight,</hi> 2 <hi>Tim.</hi> 4.8. may ſail with a Plerophory, with <hi>top and top gallant</hi> into the Ocean of eternity. An happy death is the concluſion of an holy life. The godly man and his godlineſs are like <hi>Saul</hi> and <hi>Jonathan;</hi> lovely in their lives, and in their deaths they are not divided.</p>
+            <p>Now what an Argument is here to ſtir you up to godli<g ref="char:EOLhyphen"/>neſſe? Is any thing more deſirable then a good end, then to doe your laſt act well? The evening crownes the day. The laſt Scene commends the act, <hi>Finis perficit tam agentem quam actionem. Balaam</hi> could deſire to die the death of the righteous, and to have his latter end like theirs, <hi>Numb.</hi> 23.10. The Papiſts have a Proverb, It's good to live in <hi>France</hi> (be<g ref="char:EOLhyphen"/>cauſe there is moſt liberty) and to die in <hi>Italy</hi> (there is moſt Popiſh purity and ſtrictneſs) When <hi>Julius Ceſar</hi> was ſur<g ref="char:EOLhyphen"/>priſed and wounded in the Senate, he caſt his robe about him, <hi>ut honeſtè caderet,</hi> that he might die decen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly. If ye would not die ill, then be ſure ye live well; let holineſs be your way, and happineſs ſhall be your end.</p>
+            <p n="4">4. This will make your eſtates and conditions eternally comfortable. Death to you then will be no night, but the day-break of eternal brightneſſe. O what welcome will Chriſt give that Magiſtrate in Heaven, that hath ſerved him faithfully on Earth! All the good ye doe for God or his people, is now perfectly recorded, and ſhall then be bountifully rewarded. It's obſervable the Epiſtl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to the Churches begin with <hi>Novi opera,</hi> and end with <hi>Vincenti dabo,</hi> to aſſure us that Chriſt is a ſtrict obſerver of our good works at firſt, and will be a rich rewarder of them at laſt.</p>
+            <p>All your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nduſtry in your generall callings of Chriſtia<g ref="char:EOLhyphen"/>nity, all your prayers are now on the file in Heaven, all your tears for ſin are in God's bottle, all your faſtings, watchings, duties in ſecret between God and your own ſouls, in publike in the great Congregation: All your ſedu<g ref="char:EOLhyphen"/>lity in your particular callings of Magiſtracy, all your pains
+<pb n="36" facs="tcp:118821:23"/> to preſerve us in peace, all your labour for the Lord's ho<g ref="char:EOLhyphen"/>nour, all your juſtifying the righteous, condemning the wicked, all the good ye doe, evil ye prevent, if done out of conſcientious Principles are not loſt,<note place="margin">
+                  <hi>Locker</hi> 2 Kings. 10.30. If God valued counterfeit coyn at ſo high a rate, how highly will he value true gold. <hi>Eſſe Chriſtum cum Paulo ſumma ſecuri<g ref="char:EOLhyphen"/>tas, eſſe Pau<g ref="char:EOLhyphen"/>lum cum Chri<g ref="char:EOLhyphen"/>ſto ſumma fe<g ref="char:EOLhyphen"/>licitas. Ber. Aug.</hi> on thoſe words, <hi>No man can ſee me and live,</hi> ſaith, <hi>Mo<g ref="char:EOLhyphen"/>riar domine ut te videam. Auſtin</hi> deſired to ſee <hi>Romam in flore, Pau<g ref="char:EOLhyphen"/>lum in ore, Chriſtu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in corpore. Bede</hi> cometh after him and cor<g ref="char:EOLhyphen"/>recteth his laſt thus, <hi>Imo vero regem in ſolio ſtellato ſeden<g ref="char:EOLhyphen"/>tem,</hi> the King in his glory rather. I wiſh for death, ſaith <hi>Melancthon, <g ref="char:V">Ʋ</g>t deſiderato fruar conſpectu chriſti.</hi> Melch. Ad.</note> but will all be found to your praiſe, honour and glory at the comming of Chriſt. Duty is ſweet at laſt, it cometh off with Heaven, though Hell dog it for a time. If God give that Magiſtrate <hi>Jehu,</hi> who ſerved him in Hypocriſie, an earthly Kingdom to the fourth generation; ſurely he will give an Heavenly Kingdome that is eternal to thoſe Magiſtrates that ſerve him in ſincerity.</p>
+            <p>O how comfortable will your conditions be when ye die, if ye be cordial to God, and zealous for God, whilſt ye live, ye ſhall be wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Chriſt, is not that enough? Did the wiſe men rejoyce ſo much to ſee the ſtar; and will not your hearts (think ye) rejoyce much more to ſee the Sun in its Noon-day brightneſs? This was the ground of <hi>Paul's</hi> de<g ref="char:EOLhyphen"/>ſiring death, <hi>Phil.</hi> 1.23. This was the rich inheritance that Chriſt bequeathd to his in his laſt Will and Teſtament, <hi>Joh.</hi> 17.24. This was the enlivening cordial which the Phyſi<g ref="char:EOLhyphen"/>tian of ſouls adminiſtred to the dying thief, <hi>Luke</hi> 23.43. In a word, this is the top of the Saints ambition here, and the apex of their perfection hereafter, even to enjoy Chriſt. <hi>Ignatius</hi> could ſay, Fire, Croſſe, breaking of my bones, quar<g ref="char:EOLhyphen"/>tering of my members, and all the torments that Man and Divel can invent, Let come, ſo I may enjoy my Lord Jeſus. And <hi>Jerome</hi> thus ſweetly, If my father ſtood weeping on his knees before me, and my mother hanging on my neck behind, and my brethren, ſiſters, children, and kinsfolk howling on every ſide to retein me in a ſinful life; I would fling my mother to the ground, run over my father, tread my kinred under my feet that I might run to Chriſt. What is that which cauſeth the Saint, to be ſo buſie about the Scri<g ref="char:EOLhyphen"/>ptures? but becauſe they are they that teſtifie of Chriſt, they prize the Cabinet for the Jewels ſake; what maketh the godly man ſo frequent at prayer? ſurely becauſe therein he enjoyeth Communion with his Saviour, with Jeſus Chriſt; his voice to every Ordidance is, <hi>Saw ye him whom my ſoul loveth.</hi> Now this is the felicity of the Magiſtrate that is godly, he ſhall be with Chriſt when he dieth. There will
+<pb n="37" facs="tcp:118821:23"/> be a perfect freedome from all evill; when the Sun is at the higheſt there ſhall be no ſhadow. When the Chriſtian hath paſſed this red Sea, he ſhall ſee all his enemies both bodily and ſpiritual dead on the ſhore.</p>
+            <p>There will be a full fruition of all good,<note place="margin">Pſal. 16. <hi>ult.</hi>
+               </note> 
+               <hi>In his preſence will be fulneſſe of joy, and at his right hand pleaſures for ever<g ref="char:EOLhyphen"/>more.</hi> The preſence of this King will make a Court in<g ref="char:EOLhyphen"/>deed; There will be all that thine eye ever ſaw, or thine heart ever deſired, or thy tongue ever asked, or thy mind ever conceived; yea ten thouſand times more then thou canſt either ask or think. There will be all beams of light in this Sun, all ſtreams of water in this Ocean, out of whom as out of a chriſtal Fountain, thou ſhalt drink down all the re<g ref="char:EOLhyphen"/>fined ſweetneſſe of all Creatures in Heaven and Earth for ever. And this Condition will be eternally thus comfor<g ref="char:EOLhyphen"/>table, 1 <hi>Theſ.</hi> 4.17. We ſhall ever be with the Lord. O how ſweet is that word! Ever, Ever to be happy and ever happy, to enjoy Chriſt fully, immediately, and ever to enjoy him. Certainly as the Word, ever is the Hell of Hell,<note n="*" place="margin">
+                  <hi>Baxter's</hi> Reſt excellently.</note> ſo it is the Heaven of Heaven. Frailty is a flaw in the beſt diamond of nature, which abateth its price. Eternity is one of the moſt precious jewels in the Crown of glory, which encreaſeth its value exceedingly.</p>
+            <p>What an Argument is here to incite you to live to Chriſt,<note place="margin">Cyprus famoſa divitiis pau<g ref="char:EOLhyphen"/>pertatem populi Rom. ut occu<g ref="char:EOLhyphen"/>paretur, ſolici<g ref="char:EOLhyphen"/>tavit. Sextus Rufus.</note> why? when ye die ye ſhall eternally live with Chriſt. When the Gauls had once taſted the wine, made of the grapes in <hi>Italy,</hi> they marched eagerly deſiring to conquer it. I have given you a taſte of <hi>Canaans</hi> grapes; O uſe violence for the inheritance above; <hi>Be conſtant, immoveable, always abounding in the work of the Lord, for your labour ſhall not be in vain in the Lord,</hi> 1 Cor. 15. <hi>ult.</hi>
+               <note place="margin">
+                  <hi>Plutarch. Pericles</hi> that famous Ora<g ref="char:EOLhyphen"/>tour, before ever he plea<g ref="char:EOLhyphen"/>ded would intreat his God, that not a word might fall from him beſides his cauſe. <hi>Plut. in vit.</hi>
+               </note>
+            </p>
+            <p>To conclude all, Its reported that <hi>Scipio African</hi> when he had any weighty work in hand, would go before day into the Capital, <hi>in Coelum Jovis, quaſi conſultans de Republica cum Jove. d</hi> And alſo that <hi>Moſes</hi> in four cauſes which came before him; two whereof were not weighty, and two were more material; <hi>Caeterum tam de his quam de illis dicebat, Non Audivi.</hi> Of both the lighter and weightier <hi>Moſes</hi> ſaid, I have not heard; To wit, from the Lord: to ſhew that a deliberation and conſultation as it were
+<pb n="38" facs="tcp:118821:24"/> with God,<note place="margin">Jewiſh Antiq. lib. 5. cap. 6. <hi>Plato</hi> in his 6 lib. <hi>de legi<g ref="char:EOLhyphen"/>bus</hi> would have the Pa<g ref="char:EOLhyphen"/>laces of Prin<g ref="char:EOLhyphen"/>ces joyned unto temples.</note> ought to be in all judgement before ſentence be pronounced. Your cuſtome (Sirs) is commendable to make your ſupplication to God, before the adminiſtration of ju<g ref="char:EOLhyphen"/>ſtice to men. I beſeech you again and again in the bowels of Chriſt, As ye would have your Saviour to ſtand by you, when all your friends, eſtates, honours will fail you, as ye would have your names to ſmell a ſweet ſavour in the Churches of God, when your bodies ſhall be rotten, as ye would die the deaths of the righteous and have your latter end like theirs, as ye would render up your accounts with joy when ye muſt appear at the Judgement ſeat of Chriſt: Now execute juſtice impartially, Live among your inferiours exemplarily, Walk with God humbly, Work for God zealouſly, Mind the power of ſanctity, and know a cruci<g ref="char:EOLhyphen"/>fied Saviour. In a word, let true righteouſneſs towards men, and reall holineſs towards God, be your work while ye live; that perfect holineſs among men that are good, and eternal happineſs in the fruition of God may be your re<g ref="char:EOLhyphen"/>ward when ye die. For though he hath ſaid, <hi>Ye are gods: and all of you are children of the moſt High; Yet ye muſt die like men, and fall like one of the Princes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERATA.</head>
+            <p>
+               <hi>Page</hi> 2. <hi>line</hi> 13. for uJpiter <hi>read</hi> Jupiter, <hi>line.</hi> 21. for Evangelical <hi>read</hi> Angelical.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
